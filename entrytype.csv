@@ -1,0 +1,1291 @@
+﻿id,name,elements,hmin,hmax,dmeas,dmeas2,colour,csystem,discovery_year,entrytype
+1,Abelsonite,"Ni,N,C,H",2,3,1.33,1.48,"Pink-purple, dark greyish purple, pale purplish red, reddish brown",Triclinic,1975,0
+2,Abenakiite-(Ce),"Ce,Na,Si,O,P,C,S",4,5,3.21,3.21,"Pale brown",Trigonal,,0
+3,Abernathyite,"As,O,K,H,U",2.5,3,3.32,3.32,"yellow",Tetragonal,1956,0
+4,Abhurite,"Cl,Sn,O,H",2,2,4.42,4.42,"Colourless",Trigonal,1983,0
+5,Ablykite,"",,,0,0,,,,0
+6,Abraum Salts,"",,,0,0,,,,0
+7,Abrazite,"",,,0,0,,,,0
+9,Abswurmbachite,"Cu,Mn,Si,O",6.5,6.5,0,0,"Black",Tetragonal,1990,0
+10,Acanthite,"Ag,S",2,2.5,7.2,7.4,"lead grey, black",Monoclinic,1855,0
+11,Acanthoîde,"",,,0,0,,,,0
+13,Acetamide,"N,O,C,H",1,1.5,0,0,"Colourless, grey",Trigonal,1974,0
+14,Achávalite,"Fe,Se",2.5,2.5,0,0,"dark grey to black",Hexagonal,1939,0
+15,Achlusite,"",,,0,0,,,,0
+16,Achrematite,"",,,0,0,"Sulphur-yellow, orange, red",,1875,0
+17,Achtaragdite,"",,,0,0,,,,0
+18,Actinolite,"Ca,Fe,Mg,Si,O,H",5,6,3.03,3.24,"Green, green-black, grey-green, or black",Monoclinic,,0
+19,Acuminite,"Al,Sr,O,F,H",3.5,3.5,3.295,3.295,"Colourless, white, becomes yellow on exposure to x-rays",Monoclinic,,0
+21,Adamite,"As,Zn,O,H",3.5,3.5,4.32,4.48,"Ideally white, colourless, frequently pale yellow, honey-yellow, brownish yellow, rose red; blue, pale green to green, may be zoned; bright green (Cu-bearing); bright pink, purple (Co-bearing)",Orthorhombic,1866,0
+23,Adelite,"As,Ca,Mg,O,H",5,5,3.71,3.76,"Colourless, white, grey, bluish grey, yellowish grey, yellow, pale green, pinkish brown, brown",Orthorhombic,1887,0
+24,Adigeite,"",,,0,0,,,,0
+26,Adipite,"",,,0,0,,,,0
+27,Admontite,"Mg,B,O,H",2,3,1.82,1.82,"Colourless",Monoclinic,1978,0
+30,Aedelforsite (of Retzius),"",,,0,0,,,,0
+31,Aegirine,"Fe,Na,Si,O",6,6,3.5,3.6,"Dark green to greenish black, reddish brown, black",Monoclinic,1821,0
+32,Aegirine-augite,"Al,Ca,Fe,Mg,Na,Si,O",6,6,0,0,,Monoclinic,1892,0
+33,Aenigmatite,"Fe,Na,Si,Ti,O",5.5,6,0,0,"Velvet-black",Triclinic,1865,0
+34,Aerinite,"Al,Ca,Fe,Mg,Na,Si,O,C,H",3,3,0,0,"Blue to blue-green",Trigonal,1876,0
+36,Aerugite,"As,Ni,O",4,4,5.85,5.85,"Dark grass-green, blue-green, pale brown.",Trigonal,1858,0
+37,Aeschynite-(Ce),"Ca,Ce,Fe,Nb,Th,Ti,O,H",5,6,5.19,5.19,"Black, brown, light brown to yellow",Orthorhombic,,0
+38,Aeschynite-(Nd),"Ca,Nb,Nd,Ti,O,H",5,6,4.6,5.04,"Dark to pale brown, brownish black",Orthorhombic,,0
+39,Aeschynite-(Y),"Ca,Nb,Th,Ti,O,H,Y",5,6,4.82,4.93,"Pale yellow, yellow-orange, pale greenish yellow, black, brownish black",Orthorhombic,,0
+40,Aeschynite,"",,,0,0,,,,0
+41,Afghanite,"Al,Ca,Cl,Na,Si,O,K,S",5.5,6,2.55,2.55,"White, light blue, dark blue",Trigonal,1964,0
+42,Afwillite,"Ca,Si,O,H",3,4,2.630,2.630,"Colourless, white; rarely blue",Monoclinic,1925,0
+43,Agardite-(Nd),"As,Cu,Nd,O,H",3,4,0,0,"Grass-green, greenish, greenish-blue",Hexagonal,,0
+44,Agardite-(Y),"As,Cu,O,H,Y",3,4,3.61,3.72,"bluish green to yellow green",Hexagonal,1968,0
+45,Agalmatolite,"Al,Si,O,K,H",2,3,2.4,2.9,"White, red, yellow, grey, green, brown",,,0
+48,Agardite-(Ce),"As,Ce,Cu,O,H",3,4,3.7,3.7,"Light green, yellowish green",Hexagonal,,0
+49,Agardite-(Dy),"As,Cu,Dy,La,O,H",3,4,0,0,"Grass green",Hexagonal,,0
+50,Agardite-(La),"As,Cu,La,O,H",3,4,3.65,3.65,"Grass-green to dull green, yellowish green to intense bluish green, rarely nearly colourless.",Hexagonal,1980,0
+56,Agramite,"",,,0,0,,,,0
+57,Agrellite,"Ca,Na,Si,O,F",5.5,5.5,2.902,2.902,"White to greyish or greenish white.",Triclinic,,0
+58,Agrinierite,"Ca,Sr,O,K,H,U",,,5.7,5.7,"Orange",Monoclinic,,0
+59,Aguilarite,"Ag,Se,S",2.5,2.5,7.40,7.53,"Bright lead-gray on fresh surfaces",Monoclinic,1891,0
+60,Aheylite,"Al,Fe,Zn,O,P,H",5,5.5,3.22,3.22,"Very pale blue, pale green, to blue-green",Triclinic,1984,0
+61,Ahlfeldite,"Ni,Se,O,H",2,2.5,3.37,3.37,"apple-green, brown, pink, yellowish",Monoclinic,1935,0
+62,Aidrylite,"",,,0,0,,,,0
+63,Aikinite,"Bi,Cu,Pb,S",2,2.5,7.06,7.08,"Blackish lead-grey",Orthorhombic,1843,0
+64,Aikinite (of Lévy),"",,,0,0,,,,0
+66,Ajoite,"Al,Cu,Na,Si,O,K,H",,,2.96,2.96,"Bluish green",Triclinic,1958,0
+67,Akaganeite,"Cl,Fe,Ni,O,H",,,0,0,"Yellowish brown, rusty brown",Monoclinic,,0
+68,Akatoreite,"Al,Mn,Si,O,H",6,6,3.48,3.48,"Yellow-orange to orange-brown",Triclinic,1969,0
+69,Akdalaite,"Al,O,H",7,7.5,3.68,3.68,"White, pale greenish yellow in thin section",Hexagonal,,0
+70,Åkermanite,"Ca,Mg,Si,O",5,6,2.944,2.944,"Colorless, yellowish gray, green, brown",Tetragonal,,0
+71,Akhtenskite,"Mn,O",,,0,0,"Light grey to black",Hexagonal,,0
+72,Akrochordite,"As,Mn,O,H",3.5,3.5,3.194,3.35,"Yellowish red-brown, pale to dark brown, pale pink,",Monoclinic,1915,0
+73,Aksaite,"Mg,B,O,H",2.5,2.5,2.066,2.066,"Colorless, white to pale gray",Orthorhombic,1962,0
+74,Aktashite,"As,Cu,Hg,S",3.5,3.5,5.5,5.5,"Gray-black",Trigonal,1968,0
+75,Al-chamosite,"",,,0,0,,,,0
+82,Alkali-garnet,"",,,0,0,,,,0
+86,Alkali-Montmorillonite,"",,,0,0,,,,0
+87,Aluminocopiapite,"Al,Fe,O,S,H",2,3,0,0,"Pale lemon-yellow to deep yellow",Triclinic,1947,0
+89,Alabandite,"Mn,S",3.5,4,3.95,4.04,"Iron black, brown, greyish black, green; dull brown (tarnished)",Isometric,1832,0
+91,Alacránite,"As,S",1.5,1.5,3.43,3.43,"Orange to pale gray with rose-yellow internal reflections",Monoclinic,1985,0
+92,Alaite,"O,H,V",,,0,0,"Dark blood-red",,,0
+93,Alamosite,"Pb,Si,O",4.5,4.5,6.488,6.488,"Colorless to white, cream, or light gray",Monoclinic,1909,0
+94,Alarsite,"Al,As,O",5,5.5,0,0,"Colorless, with pale tints of yellow, green, blue due to inclusions",Trigonal,,0
+95,Alaskaite,"",2,2,6.78,6.88,"Light lead-gray; bronzy tarnish",,,0
+96,Albite,"Al,Na,Si,O",6,6.5,2.6,2.65,"White to gray or colorless, uncommonly blue tinted or rarely green or red tinted, while much included albite may be strongly colored",Triclinic,1815,0
+97,Albrechtschraufite,"Ca,Mg,O,C,F,H,U",2,3,2.6,2.6,"Yellow-green",Triclinic,1983,0
+99,Alcharite,"",,,0,0,,,,0
+102,Alkali-Hastingsite,"",,,0,0,,,,0
+103,Albrittonite,"Cl,Co,O,H",,,0,0,"Purple",,,0
+104,Aldermanite,"Al,Mg,Na,O,P,F,H",2,2,0,0,"Colorless in transmitted light",Monoclinic,,0
+105,Aldzhanite,"Ca,Cl,Mg,B,O,H",,,0,0,,,,0
+106,Ferro-taramite,"Al,Ca,Fe,Na,Si,O,H",,,0,0,"Bluish green",Monoclinic,,0
+107,Aluminium,"Al",2,3.5,2.707,2.707,"Grayish-White",Isometric,1978,0
+108,Aleksite,"Bi,Pb,Te,S",2.5,2.5,0,0,"In polished section, very pale gray with slight greenish tint",Trigonal,1978,0
+110,Alexandrolite,"Al,Cr,Si,O,H",,,0,0,,,,0
+111,Alexjejewite,"",,,0,0,,,,0
+112,Alforsite,"Ba,Cl,O,P",5,5,0,0,"Colorless",Hexagonal,1980,0
+114,Algodonite,"As,Cu",4,4,8.38,8.38,"Steel-gray to silver-white, tarnishes dull on exposure",Hexagonal,1857,0
+115,Aliettite,"Al,Ca,Mg,Si,O,H",1,2,0,0,"Colorless, pale yellow or green",Monoclinic,1968,0
+116,Alipite,"Mg,Ni,Si,O,H",,,0,0,"Pale green",,,0
+117,Alisonite,"Cu,Pb,S",,,0,0,,,,0
+119,Alkali-apatite,"",,,0,0,,,,0
+122,Allactite,"As,Mn,O,H",4.5,4.5,3.83,3.83,"Brown, dark to light purplish red, brownish red, colourless to white",Monoclinic,1884,0
+123,Allagite,"",,,0,0,,,,0
+125,Allanite-(Ce),"Al,Ca,Ce,Fe,Si,O,H",5.5,6,3.5,4.2,"Brown to black",Monoclinic,,0
+126,Allanite-(La),"Al,Ca,Fe,La,Si,O,H",6,6,3.93,3.93,"Black, with brownish reflections",Monoclinic,,0
+127,Allanite-(Y),"Al,Ca,Fe,Si,O,H,Y",5.5,6.5,3.5,4.2,"Black",Monoclinic,1949,0
+128,Allargentum,"Ag,Sb",3.5,3.5,10.0,10.0,"Silver",Hexagonal,1950,0
+129,Alleghanyite,"Mn,Si,O,H",5.5,5.5,3.93,4.02,"Pinkish to reddish brown, deep pink, grayish pink",Monoclinic,1932,0
+130,Allemontite I,"",,,0,0,,,,0
+131,Allemontite III,"",,,0,0,,,,0
+133,Allevardite,"",,,0,0,,,,0
+134,Alloclasite,"As,Co,Fe,S",5,5,5.95,5.95,"Steel gray to silver",Monoclinic,1866,0
+135,Allokite,"",,,0,0,,,,0
+136,Allomorphite,"",,,0,0,,,,0
+137,Allophane-chrysocolla,"",,,0,0,,,,0
+139,Allophane,"Al,Si,O,H",3,3,2.75,2.75,"White, pale blue to sky-blue, green, brown",Amorphous,1816,0
+140,Allophite,"Al,Mg,Si,O,H",,,0,0,,,,0
+141,Alluaivite,"Ca,Cl,Mn,Na,Nb,Si,Ti,O,H",5,6,2.76,2.76,"Colorless to weak brownish pink",Trigonal,1990,0
+142,Alluaudite,"Ca,Fe,Mg,Mn,Na,O,P",5.5,6,3.4,3.5,"Dirty yellow to brownish yellow, grayish green; surficially dull greenish black, brownish black, black, when altered",Monoclinic,1848,0
+143,Almbosite,"Fe,Si,O,V",,,0,0,"grey, blue",,,0
+144,Almeraite,"",,,0,0,,,,0
+145,Aloisiite,"Ca,Si,Na,Fe,Mg,O,H",,,0,0,,,,0
+146,Alstonite,"Ba,Ca,O,C",4,4.5,3.67,3.711,"Colourless to snow white, yellow-gray; pale gray, pale cream, pink to pale rose-red",Triclinic,1841,0
+147,Altaite,"Pb,Te",2,3,8.19,8.19,"Tin-white with a light yellow tint; yellow-brown, blue (tarnished)",Isometric,1845,0
+148,Althausite,"Mg,O,P,F,H",3.5,4,2.97,2.97,"Pale gray, reddish brown; dark blue, green, black",Orthorhombic,1971,0
+149,Althupite,"Al,Th,O,P,H,U",3.5,4,3.91,3.91,"Yellow",Triclinic,1986,0
+150,Altisite,"Al,Cl,Na,Si,Ti,O,K",6,6,2.64,2.64,"Colourless",Monoclinic,1994,0
+154,Aluminite,"Al,O,S,H",1,2,1.7,1.7,"White to yellow, grey; colourless in transmitted light.",Monoclinic,1807,0
+157,Alumohydrocalcite,"Al,Ca,O,C,H",2.5,2.5,2.21,2.24,"Chalky white to pale blue, pale yellow, cream, gray; pale rose or brownish pink to dark violet in Cr-bearing varieties",Triclinic,1926,0
+158,Pharmacoalumite,"Al,As,O,K,H",2.5,2.5,0,0,"White, pale yellow",Isometric,1980,0
+159,Alumotantite,"Al,Ta,O",7.5,7.5,0,0,"Colourless to white",Orthorhombic,1981,0
+161,Alunite,"Al,O,K,S,H",3.5,4,2.6,2.9,"white, pale shades of gray, yellow, red, to reddish brown",Trigonal,1824,0
+162,Alunogen,"Al,O,S,H",1.5,2,0,0,"Colorless in crystals, aggregates white, or pale yellow or red from impurities.",Triclinic,,0
+165,Alvanite,"Al,Zn,O,H,V",3,3.5,2.49,2.49,"Pale bluish green to bluish black.",Monoclinic,1959,0
+167,Ammonium-mica,"",,,0,0,,,,0
+168,Ammonium-Kainite,"Cl,Mg,N,O,S,H",,,0,0,,,,0
+169,Ammonium-Bromcarnallite,"Br,Mg,N,O,H",,,0,0,,,,0
+170,Ammonium-Leucite,"Al,Si,N,O,H",,,0,0,,,,0
+171,Ammonium-Thomsonite,"Al,Ca,Si,Na,N,O,H",,,0,0,,,,0
+172,Ammonium-Iodocarnallite,"",,,0,0,,,,0
+174,Ammonium-Mesolite,"Al,Ca,Si,N,O,H",,,0,0,,,,0
+175,Ammonium-Weeksite,"Si,N,O,H,U",,,0,0,,,,0
+176,Ammonium-Eisenchlorid,"",,,0,0,,,,0
+177,Ammonium-Laumontite,"Al,Ca,Si,N,O,H",,,0,0,,,,0
+178,Ammonium-natrolite,"Si,N,O,H",,,0,0,,,,0
+179,Ammonium-Stilbite,"Al,Si,N,O,H",,,0,0,,,,0
+180,Amakinite,"Fe,O,H",3.5,4,2.925,2.98,"Pale green to yellow-green; rapidly turns brown when exposed to air, due to formation of Fe(OH)3",Trigonal,1962,0
+182,Amarantite,"Fe,O,S,H",2.5,2.5,2.189,2.286,"Amaranth-red to brownish red and red-orange",Triclinic,1888,0
+183,Amarillite,"Fe,Na,O,S,H",2.5,3,2.19,2.2,"Pale yellow with greenish tint.",Monoclinic,1933,0
+185,Ammonium-Vermiculite,"",,,0,0,,,,0
+186,Ammonium-Cryolite,"Al,N,F,H",,,0,0,,,,0
+187,Ammonium-Boltwoodite,"Si,N,O,H,U",,,0,0,,,,0
+189,Amblygonite,"Al,Li,O,P,F",5.5,6,3.04,3.11,"Milk-white, yellow, beige, salmon-pink, pale green, light blue, grey; colourless in transmitted light.",Triclinic,1817,0
+190,Ammonium-Illite,"",,,0,0,,,,0
+191,Ammonium-Heulandite,"Al,Ca,Si,N,O,H",,,0,0,,,,0
+192,Ammonium-Chabazite,"Al,Ca,Si,N,O,H",,,0,0,,,,0
+193,Ammonium-Carnallite,"Cl,Mg,N,O,H",,,0,0,,,,0
+194,Ammonium-Uranospinite,"As,N,O,H,U",,,0,0,,Tetragonal,,0
+195,Ameghinite,"Na,B,O,H",2,3,2.030,2.030,"Colourless",Monoclinic,1966,0
+197,Amesite,"Al,Mg,Si,O,H",2.5,3,2.77,2.78,"Commonly pale grayish blue-green, also white, colourless, pale green, pink to lilac (chromian)",Triclinic,,0
+199,Amicite,"Al,Na,Si,O,K,H",4.5,4.5,2.06,2.23,"Colorless",Monoclinic,1979,0
+200,Aminoffite,"Al,Be,Ca,Si,O,H",5.5,6,2.94,2.94,"Colorless to light yellowish.",Tetragonal,1937,0
+202,Ammiolite,"",,,0,0,"Deep red, scarlet",,,0
+203,Ammonioalunite,"Al,N,O,S,H",2,3,2.4,2.4,"Grayish white",Trigonal,1988,0
+204,Ammonioborite,"N,B,O,H",,,1.765,1.765,"White; colourless in transmitted light",Monoclinic,1931,0
+205,Ammoniojarosite,"Fe,N,O,S,H",3.5,4.5,0,0,"Light yellow; light yellow to nearly colourless in transmitted light.",Trigonal,1927,0
+206,Ammonioleucite,"Al,Si,N,O,H",5.5,6,2.29,2.29,"White",Tetragonal,1986,0
+208,Amstallite,"Al,Ca,Cl,Si,O,H",3,5,2.40,2.40,"Colourless",Monoclinic,1987,0
+209,Antimony Ochre,"",,,,,,,,0
+210,Analcime,"Al,Na,Si,O,H",5,5.5,2.24,2.29,"White, colourless, gray, pink, green, yellow",Triclinic,,0
+211,Anapaite,"Ca,Fe,O,P,H",3.5,3.5,2.81,2.81,"Green, greenish-white, milky white, colorless; colourless to light green in transmitted light.",Triclinic,1902,0
+213,Anatase,"Ti,O",5.5,6,3.79,3.97,"Brown, pale yellow or reddish brown, indigo, black; pale green, pale lilac, grey, rarely nearly colourless; brown, yellow-brown, pale green, blue in transmitted light.",Tetragonal,1801,0
+214,Anauxite,"",,,0,0,"Pearly white",,1838,0
+216,Ancylite-(Ce),"Ce,Sr,O,C,H",4,4.5,3.95,3.95,"Light yellow, orange-yellow, yellow-brown, grey",Orthorhombic,1897,0
+217,Andalusite,"Al,Si,O",6.5,7.5,3.13,3.21,"Pink to red brown, occasionally yellow, green, white, gray rarely violet",Orthorhombic,,0
+218,Anderbergite,"Ca,Si,Zr,O,H",,,0,0,,,,0
+219,Andersonite,"Ca,Na,O,C,H,U",2.5,2.5,2.8,2.8,"Bright green to yellow-green.",Trigonal,1948,0
+221,Andesine-oligoclase,"",,,0,0,,,,0
+222,Andorite,"Ag,Pb,Sb,S",3.5,3.5,5.33,5.37,"Dark grey.",Orthorhombic,1892,0
+223,Andradite,"Ca,Fe,Si,O",6.5,7,3.8,3.9,"Yellow, greenish yellow to emerald-green, dark green; brown, brownish red, brownish yellow; grayish black, black; may be sectored",Isometric,1800,0
+224,Andreattite,"",,,0,0,,,,0
+225,Andrémeyerite,"Ba,Fe,Si,O",5.5,5.5,4.15,4.15,"light emerald-green",Monoclinic,1972,0
+227,Anduoite,"As,Os,Ru",6.5,7,,0,"lead gray",Orthorhombic,1979,0
+228,Anemolite,"",,,0,0,,,,0
+229,Anemousite,"",,,0,0,,,,0
+231,Angelellite,"As,Fe,O",5.5,5.5,4.867,4.867,"Reddish brown, blackish brown, dark brown",Triclinic,1959,0
+233,Anglesite,"Pb,O,S",2.5,3,6.37,6.39,"Colorless to white, often tinted grey, yellow, green or  blue; colourless in transmitted light.",Orthorhombic,1832,0
+234,Anhydrite,"Ca,O,S",3,3.5,2.98,2.98,"Colourless, bluish, blue-grey, violet, burgundy-red, white, rose-pink, brownish, reddish, grey, dark grey; colourless in transmitted light",Orthorhombic,1804,0
+235,Anhydrokainite,"Cl,Mg,O,K,S",,,0,0,,,,0
+236,Anilite,"Cu,S",3,3,0,0,"Bluish-Grey",Orthorhombic,1969,0
+237,Animikite,"",,,0,0,,,,0
+239,Ankerite,"Ca,Fe,Mg,O,C",3.5,4,2.93,3.10,"Brown, white to grey, yellowish-brown, tan, fawn, greenish",Trigonal,1825,0
+240,Annabergite,"As,Ni,O,H",1.5,2.5,3.07,3.07,"Green, light grey to light apple green, white; pale rose red when rich in cobalt.",Monoclinic,1852,0
+241,Annite,"Al,Fe,Si,O,K,H",2.5,3,3.3,3.3,"Black, brown",Monoclinic,1868,0
+243,Anomalite,"",,,0,0,,,1876,0
+246,Anorthite,"Al,Ca,Si,O",6,6.5,2.74,2.76,"Colourless, reddish grey, white",Triclinic,1823,0
+249,Anosovite,"Ti,O",,,0,0,,,,0
+250,Antamokite,"",,,0,0,,,,0
+251,Antarcticite,"Ca,Cl,O,H",2,3,1.715,1.715,"Colourless",Trigonal,1965,0
+252,Anthoinite,"Al,O,H,W",1,1,4.78,4.87,"White (when free of iron)",Triclinic,,0
+253,Anthonyite,"Cl,Cu,O,H",2,2,0,0,"Lavender",Monoclinic,1963,0
+254,Anthophyllite,"Mg,Si,O,H",5.5,6,2.85,3.57,"White, greenish grey, green, clove brown, or brownish green",Orthorhombic,1801,0
+255,Anthosiderite,"",,,0,0,,,,0
+257,Anthraconite,"",,,0,0,,,,0
+258,Anthracoxene,"",,,0,0,,,,0
+259,Anthrophyllite,"",,,0,0,,,,0
+260,Antigorite,"Mg,Si,O,H",3.5,4,2.5,2.6,"Green, green-blue, white, brown, black",Monoclinic,1840,0
+262,Antimony,"Sb",3,3.5,6.61,6.71,"Tin-white",Trigonal,,0
+263,Antimonial Arsenic,"Sb,As",,,0,0,,,,0
+266,Antimonselite,"Sb,Se",3.5,3.5,0,0,"Black",Orthorhombic,1993,0
+268,Antlerite,"Cu,O,S,H",3.5,3.5,3.88,3.88,"Emerald-green to blackish-green, also light green.",Orthorhombic,1889,0
+270,Antrimolite,"",,,0,0,,,,0
+271,Anyuiite,"Au,Pb",3.5,3.5,0,0,"Silvery grey",Tetragonal,1989,0
+272,Apachite,"Cu,Si,O,H",2,2,2.80,2.80,"Blue (""faience-blue"")",Monoclinic,1980,0
+273,Apatelite,"Fe,O,S,H",,,0,0,,,,0
+275,Apatoid,"",,,0,0,,,,0
+276,Aphrite (of Karsten),"Ca,O,C",,,0,0,,,,0
+278,Aphrosiderite,"Al,Fe,Mg,Si,O,H",,,0,0,,,,0
+279,Aphrowad,"",,,0,0,,,,0
+280,Aphthitalite,"Na,O,K,S",3,3,2.656,2.71,"Colourless (rare), white, grey, bluish, greenish, reddish; colourless in transmitted light",Trigonal,1813,0
+281,Apjohnite,"Al,Mn,O,S,H",1.5,2,1.78,1.81,"Colourless, white, light pink, light yellow, light green",Monoclinic,1847,0
+282,Aplowite,"Co,Mn,Ni,O,S,H",3,3,2.33,2.33,"Bright pink",Monoclinic,1965,0
+285,Apuanite,"Fe,Sb,O,S",4,5,5.33,5.33,"Black",Tetragonal,1979,0
+286,Aquacreptite (of Harada),"Si,Mg,O,H",,,0,0,,,,0
+287,Aquacreptite (of Shepard),"Al,Fe,Mg,Si,O,H",2.5,2.5,2.08,2.08,"Yellowish brown",,,0
+288,Aquacreptite,"",,,0,0,,,,0
+290,Argentojarosite,"Ag,Fe,O,S,H",3.5,4.5,3.66,3.66,"Yellow-brown to brown.",Trigonal,1923,0
+291,Argentopentlandite,"Ag,Fe,Ni,S",3.5,3.5,0,0,"Bronze brown",Isometric,1977,0
+292,Arsenogoyazite,"Al,As,Sr,O,H",4,4,3.355,3.355,"White to colorless, pale yellow, pale green, grayish-green",Trigonal,1984,0
+294,Arsenolite,"As,O",1.5,1.5,3.86,3.88,"White, bluish; reddish to yellowish if impure with realgar or orpiment; colourless in transmitted light",Isometric,1854,0
+295,Arsenoflorencite-(La),"Al,As,La,O,H",3.5,3.5,4.15,4.15,"Orange–red to pink.",Trigonal,,0
+296,Arsenoflorencite-(Nd),"Al,As,Nd,O,H",3.5,3.5,0,0,,Trigonal,,0
+299,Argentopyrite,"Ag,Fe,S",3.5,4,4.25,4.25,"Bronze-brown, tarnishing to lead-grey to blue-gray.",Monoclinic,1868,0
+301,Arsenohauchecornite,"As,Bi,Ni,S",5.5,5.5,6.35,6.35,"Bronze",Tetragonal,1980,0
+302,Arsenotellurite,"As,Te,S",,,0,0,,,,0
+303,Arsenopalladinite,"As,Pd,Sb",4,4,10.40,10.40,"Yellowish, creamy white in reflected light.",Triclinic,1955,0
+304,Arsenogorceixite,"Al,As,Ba,O,H",4,4,3.655,3.655,"White, yellowish white, yellow, greenish yellow, greenish, pale blue, colourless.",Trigonal,1991,0
+305,Arsenopyrite,"As,Fe,S",5.5,6,6.07,6.07,"Silver-white to steel-gray, may have a slight yellow appearance",Monoclinic,1847,0
+307,Aragonite,"Ca,O,C",3.5,4,2.947,2.947,"Colorless to white or grey, often stained various hues by impurities, such as blue, green, red or violet; colourless in transmitted light.",Orthorhombic,1797,0
+308,Aragotite,"C,H",,,0,0,,,,0
+310,Aramayoite,"Ag,Bi,Sb,S",2.5,2.5,5.602,5.602,"Iron-black; deep red (transmitted light)",Triclinic,1926,0
+311,Aravaipaite,"Al,Pb,O,F,H",2,2,0,0,"Colourless",Triclinic,1988,0
+312,Arsenolamprite,"As",2,2,5.3,5.5,"Grey-white.",Orthorhombic,1823,0
+314,Arcanite,"O,K,S",2,2,2.663,2.663,"Colourless, white, yellow",Orthorhombic,1845,0
+315,Archerite,"N,O,P,K,H",1,2,0,0,"White",Tetragonal,1977,0
+316,Arctite,"Ca,Na,O,P,F",5,5,3.13,3.13,"Colorless:",Trigonal,1981,0
+317,Arctolite,"Al,Ca,Mg,Si,O,H",,,0,0,"Colorless to pale yellow or green",,,0
+318,Arcubisite,"Ag,Bi,Cu,S",,,0,0,"Gray",,1976,0
+319,Argentotennantite-(Zn),"Ag,As,Cu,Zn,S",3.5,3.5,0,0,"Grey black",Isometric,1986,0
+320,Ardaite,"Cl,Pb,Sb,S",2.5,3,0,0,"Greenish gray or bluish green",Monoclinic,1982,0
+321,Ardealite,"Ca,O,P,S,H",1,1.5,2.30,2.34,"Light yellow, yellow, brownish yellow, colourless",Monoclinic,1931,0
+322,Ardennite-(As),"Al,As,Mg,Mn,Si,O,H",6,7,3.69,3.75,"Yellow to Brown",Orthorhombic,1872,0
+323,Ardmorite,"",,,0,0,,,,0
+324,Arequipite,"",,,0,0,"Honey-yellow",,,0
+325,Arfvedsonite,"Fe,Na,Si,O,H",5,6,3.3,3.5,"Bluish-black to black.",Monoclinic,1823,0
+326,Argentite,"Ag,S",,,,,,Isometric,,0
+330,Argutite,"Ge,O",6,7,0,0,,Tetragonal,1983,0
+331,Argyrodite,"Ag,Ge,S",2.5,3,6.29,6.29,"grey, black",Orthorhombic,1886,0
+332,Argyropyrite,"Ag,Fe,S",,,0,0,,,,0
+333,Arhbarite,"As,Cu,Mg,O,H",,,3.71,0,"Dark blue to medium blue",Triclinic,1982,0
+334,Aristarainite,"Mg,Na,B,O,H",3.5,3.5,2.027,2.027,"Colourless, white",Monoclinic,1973,0
+336,Arizonite (of Hanks),"",,,0,0,,,,0
+338,Arizonite (of Palmer),"",5.5,5.5,4.25,4.25,"Dark steel-grey (fresh surfaces)",,,0
+341,Armalcolite,"Fe,Mg,Ti,O",5,5,4.94,4.94,"Grey",Orthorhombic,1970,0
+342,Armangite,"As,Mn,O,C,H",4,4,4.43,4.43,"Black to pale brown; yellow to brown in transmitted light",Trigonal,1920,0
+343,Armenite,"Al,Ba,Ca,Si,O,H",7.5,7.5,2.77,2.77,"Colourless, white, green",Orthorhombic,1939,0
+344,Armstrongite,"Ca,Si,Zr,O,H",4.5,4.5,2.562,2.593,"Dark to light brown",Monoclinic,1973,0
+346,Aromite,"",,,0,0,,,,0
+348,Aromite (of Mueller),"",,,0,0,,,,0
+350,Arrhenite,"Ca,Er,Si,Ta,Zr,O,Y",,,0,0,,,,0
+351,Arrojadite-(KFe),"Al,Ca,Fe,Na,O,P,K,H",5,5,3.527,3.527,"Olive-green",Monoclinic,1925,0
+353,Antimony-bearing Gersdorffite,"As,Ni,Sb,S",,,0,0,,,,0
+354,Arsenargentite,"Ag,As",,,0,0,,,,0
+356,Arsendescloizite,"As,Pb,Zn,O,H",4,4,,0,"Pale yellow to deep green, greyish brown",Orthorhombic,1982,0
+357,Arsenic,"As",3.5,3.5,5.63,5.78,"Tin-white, tarnishing to dark grey or black.",Trigonal,Anci,0
+359,Arseniopleite,"As,Ca,Mn,Na,O",3.5,3.5,4.17,4.22,"Brownish-red, also cherry red, gray, yellow, dark green; orange, pale apricot-orange or brownish orange in transmitted light.",Monoclinic,1888,0
+360,Arseniosiderite,"As,Ca,Fe,O,H",4.5,4.5,3.58,3.6,"Golden-yellow to yellow-brown, reddish-brown, brown, black",Monoclinic,1842,0
+362,Arsennickeleisen,"As,Fe,Ni",,,0,0,,,,0
+363,Arsenobismite,"",,,0,0,"Yellowish-brown, yellowish-green",,,0
+364,Arsenoclasite,"As,Mn,O,H",5,6,4.16,4.16,"Red, dark orange-brown.",Orthorhombic,1931,0
+365,Arsenocrandallite,"Al,As,Ca,O,H",5.5,5.5,3.25,3.25,"White, creamy yellowish-white, also blue to bluish-green",Trigonal,1981,0
+366,Arsenoflorencite-(Ce),"Al,As,Ce,O,H",3.5,3.5,4.096,4.096,"Colourless to white, light brown",Trigonal,1985,0
+368,Arsenschwefel,"As,O,S,H",,,0,0,,,,0
+369,Arsenstruvite,"As,Mg,N,O,H",,,0,0,,,,0
+371,Arsenthorite,"",,,0,0,,,,0
+372,Arsentsumebite,"As,Cu,Pb,O,S,H",4,5,6.46,6.46,"Emerald-green, grass-green, apple-green, pale bluish green.",Monoclinic,1935,0
+373,Arsenuranospathite,"Al,As,O,F,H,U",2,2,0,0,"Pale yellow",Orthorhombic,1959,0
+374,Arsenuranylite,"As,Ca,O,H,U",2,3,0,0,"Orange",Orthorhombic,1958,0
+376,Arthurite,"As,Cu,Fe,O,H",3,4,3.2,3.2,"Apple-green, emerald-green, pale olive-green.",Monoclinic,1954,0
+377,Artinite,"Mg,O,C,H",2.5,2.5,2.01,2.03,"White; colourless in transmitted light",Monoclinic,1902,0
+378,Artroeite,"Al,Pb,O,F,H",2.5,2.5,5.36,5.36,"Colourless",Triclinic,1993,0
+379,Arupite,"Ni,O,P,H",1.5,2,0,0,"Blue to light blue",Monoclinic,1990,0
+380,Arzakite,"Br,Cl,Hg,S",2,2.5,0,0,"Colorless to yellow",Monoclinic,1984,0
+381,Arzrunite,"Cl,Cu,Pb,O,S,H",,,0,0,"Blue, blue-green",Orthorhombic,,0
+382,Asbecasite,"As,Be,Ca,Si,Sn,Ti,O",6.5,7,3.70,3.70,"Yellow, pale yellow",Trigonal,1963,0
+383,Asbestos,"",,,0,0,,,,0
+384,Asbolane,"Co,Mn,Ni,O,H",,,0,0,"Bluish to brownish black",Hexagonal,1847,0
+385,Asbophite,"",,,0,0,,,,0
+386,Aschamalmite,"Bi,Pb,S",3.5,3.5,0,0,"Lead-grey",Monoclinic,1983,0
+387,Ashanite,"Fe,Mn,Nb,Ta,O,U",5.5,6.5,6.61,6.61,"Dark brown to pitch-black; brownish red in thin section",Orthorhombic,,0
+388,Ashburtonite,"Cl,Cu,Pb,Si,O,C,H",,,0,0,"Blue",Tetragonal,1991,0
+389,Ashcroftine-(Y),"Ca,Na,Si,O,C,K,H,Y",5,5,2.61,2.61,"Pink",Tetragonal,1924,0
+390,Ashtonite,"",,,0,0,,,,0
+391,Asisite,"Cl,Pb,Si,O",3.5,3.5,0,0,"Yellow to yellow-green, red",Tetragonal,1988,0
+393,Aspasiolite,"",,,0,0,,,,0
+394,Asperolite,"Cu,Si,O,H",,,0,0,,,,0
+397,Asselbornite,"As,Bi,Pb,O,H,U",3,3,0,0,"Brown to lemon-yellow",Isometric,1980,0
+399,Asteriated Ruby,"",,,0,0,,,,0
+404,Astrocyanite-(Ce),"Ce,Cu,La,Nd,O,C,H,U",2,3,3.80,3.80,"Bright blue",Hexagonal,1989,0
+405,Astrophyllite,"Fe,Na,Si,Ti,O,K,F,H",3,3,3.2,3.4,"Bronze-yellow, golden yellow, brown to reddish brown",Triclinic,1844,0
+406,Atacamite,"Cl,Cu,O,H",3,3.5,3.745,3.776,"Bright green, dark emerald-green to blackish green; shades of green in transmitted light.",Orthorhombic,1801,0
+407,Atelestite,"As,Bi,O,H",4.5,5,7.14,7.14,"Sulphur-yellow to yellowish-green, wax-yellow, yellow-brown",Monoclinic,1832,0
+408,Athabascaite,"Cu,Se",2.5,2.5,0,0,"Light grey, bluish-grey to white",Orthorhombic,1949,0
+409,Atheneite,"As,Hg,Pd",5,5,10.2,10.2,"Grey",Hexagonal,1974,0
+410,Atheriastite,"Al,Ca,Fe,Mg,Si,O,H",,,0,0,"Spanish green",,,0
+411,Atlasite,"Cl,Cu,O,C,H",,,0,0,,,,0
+412,Atlasovite,"Bi,Cl,Cu,Fe,O,K,S",2,2.5,4.20,4.20,"Dark brown",Tetragonal,,0
+413,Atokite,"Pd,Sn",4.5,4.5,0,0,"Light cream",Isometric,1975,0
+415,Attakolite,"Al,Ca,Mn,Si,O,P,H",5,5,3.09,3.23,"Pale red, white to pink",Monoclinic,1868,0
+416,Aubertite,"Al,Cl,Cu,O,S,H",2,3,1.815,1.815,"Azure-blue.",Triclinic,1978,0
+418,Auerlite,"Si,Th,O,P",,,0,0,,,,0
+419,Augite,"Ca,Fe,Mg,Si,O",5.5,6,3.19,3.56,"Brown-green, black, green-black, brown, purplish brown",Monoclinic,1792,0
+420,Augite-Bronzite,"",,,0,0,,,,0
+421,Auralite,"",,,0,0,,,,0
+422,Aurichalcite,"Cu,Zn,O,C,H",1,2,3.96,3.96,"Pale green, sky blue, or greenish blue; colourless to light shades of blue or green in transmitted light",Monoclinic,1839,0
+423,Auricupride,"Au,Cu",3.5,3.5,11.5,11.5,"Yellow with a reddish tint; in reflected light, violet-rose",Isometric,1950,0
+426,Aurobismuthinite,"",,,0,0,,,,0
+427,Aurocuproite,"",,,0,0,,,,0
+428,Aurorite,"Mn,O,H",2,3,0,0,"Black, pale brown in transmitted light at the edges of very thin, platy grains",Trigonal,1967,0
+430,Aurostibite,"Au,Sb",3,3,9.98,9.98,"White",Isometric,1952,0
+431,Austenite,"Fe,C",,,0,0,,,,0
+432,Austinite,"As,Ca,Zn,O,H",4,4.5,4.13,4.13,"Colorless to pale yellowish white or bright green; colourless in transmitted light.",Orthorhombic,1935,0
+433,Autunite,"Ca,O,P,H,U",2,2.5,3.05,3.2,"Yellow, greenish-yellow, pale green; dark green, greenish black.",Orthorhombic,1852,0
+437,Avicennite,"Tl,O",1.5,2.5,8.9,8.9,"Greyish black with brownish black tint",Isometric,1958,0
+438,Avogadrite,"B,K,F",,,0,0,"Colourless to white, yellowish to reddish when impure, colourless in transmitted light",Orthorhombic,1926,0
+439,Awaruite,"Fe,Ni",5,5,7.8,8.22,"Silver-white to grayish white",Isometric,1885,0
+441,Ayasite,"",,,0,0,,,,0
+442,Azoproite,"Fe,Mg,Ti,B,O",5.5,5.5,3.63,3.63,"Black",Orthorhombic,1970,0
+444,Azovskite,"Fe,O,P,H",4,4,2.5,2.5,"Dark brown; brown-red in transmitted light.",,,0
+447,Azurite,"Cu,O,C,H",3.5,4,3.77,3.77,"Azure blue, blue, light blue, or dark blue; light blue in transmitted light",Monoclinic,1824,0
+448,Azurmalachite,"",,,0,0,,,,0
+449,Ånnerødite,"",,,0,0,,,1881,0
+451,Augelite,"Al,O,P,H",4.5,5,2.696,2.696,"White, colourless, pale yellow, light green, rarely blue or pink; colourless in transmitted light.",Monoclinic,1868,0
+452,Almandine,"Al,Fe,Si,O",7,7.5,4.318,4.318,"Deep red, brownish red, red-violet, black",Isometric,,0
+453,Ashoverite,"Zn,O,H",,,3.3,3.3,"Colourless, milky",Tetragonal,1988,0
+455,Arandisite,"Si,Sn,O,H",5,5,0,0,"pale green through bright green to deep grayish green, with bright apple green as the predominant shade",,1929,0
+456,Anandite,"Al,Ba,Fe,Mg,Si,O,K,S,H",3,4,3.91,3.94,"Black",Monoclinic,1967,0
+457,Ba-Mordenite,"Al,Ba,Si,O,H",,,0,0,,,,0
+458,Ba-Priderite,"Ba,Fe,Ti,O,K",,,0,0,,,,0
+462,Barytolamprophyllite,"Ba,Fe,Na,Si,Ti,O,F,H",2,3,3.62,3.66,"Dark brown",Monoclinic,1965,0
+463,Barium-Hydroxylapatite,"Ba,O,P,H",,,0,0,,,,0
+466,Barytocalcite,"Ba,Ca,O,C",4,4,3.66,3.71,"Colourless, white, greyish, greenish, light yellow",Monoclinic,1824,0
+467,Barium-Hamlinite,"Al,Ba,O,P,H",,,0,0,,,,0
+468,Barium-Nepheline,"Al,Ba,Si,O",,,0,0,,Hexagonal,,0
+469,Barium-Natrolite,"Al,Ba,Si,O,H",,,0,0,,,,0
+470,Barium-Uranophane,"",,,0,0,,,,0
+472,Bariopharmacosiderite,"As,Ba,Fe,O,H",2.5,2.5,3.05,3.05,"Brown, yellow, reddish brown, reddish, greenish, bluish",Tetragonal,,0
+473,Barium-Oxyapatite,"Ba,O,P",,,0,0,,,,0
+476,Babefphite,"Ba,Be,O,P,F,H",3.5,3.5,4.31,4.31,"White",Triclinic,1966,0
+478,Babingtonite,"Ca,Fe,Mn,Si,O,H",5.5,6,3.34,3.37,"Dark greenish-black",Triclinic,1824,0
+479,Baddeckite,"",,,0,0,,,,0
+480,Baddeleyite,"Zr,O",6.5,6.5,5.4,6.02,"Colourless to yellow, green, greenish or reddish brown, brown, iron-black; colourless to brown in transmitted light",Monoclinic,1892,0
+481,Badenite,"",,,0,0,,,,0
+482,Bafertisite,"Ba,Fe,Si,Ti,O,F,H",5,5,3.96,4.25,"Red, yellowish-red, light brown",Triclinic,1959,0
+483,Baghdadite,"Ca,Si,Zr,O",6,6,0,0,"Colourless, pale brown, beige, pale yellowish",Monoclinic,,0
+484,Bahianite,"Al,Sb,O,H",9,9,4.78,5.46,"Tan, cream, orange-brown, brown; crystals colourless, tan, pale violet; yellow internal reflections in transmitted light",Monoclinic,1978,0
+486,Baikerite,"",,,0,0,,,,0
+487,Baikovite,"Ti,Mg,O",,,0,0,,Isometric,,0
+488,Baileychlore,"Al,Fe,Mg,Si,Zn,O,H",2.5,3,3.182,3.182,"Green, yellow-green, light blue",Triclinic,1988,0
+491,Bakhilite,"",,,0,0,,,,0
+492,Balangeroite,"Fe,Mg,Mn,Si,O,H",,,2.96,3.10,"Brown",Monoclinic,1983,0
+494,Balavinskite,"Sr,B,O,H",,,0,0,,,,0
+495,Balipholite,"Al,Ba,Li,Mg,Si,O,H",5,5.5,3.32,3.35,"Pale yellowish-white",Orthorhombic,1975,0
+496,Balkanite,"Ag,Cu,Hg,S",3.5,3.5,6.318,6.318,"Steel Grey",Monoclinic,1973,0
+497,Balkhashite,"",,,0,0,,,,0
+500,Balvraidite,"",,,0,0,,,,0
+501,Balyakinite,"Cu,Te,O",3.5,3.5,5.6,5.6,"Greyish-green, bluish-green",Orthorhombic,1980,0
+502,Bambollaite,"Cu,Se,Te",3,3,0,0,"Brownish-grey",Tetragonal,1972,0
+504,Banalsite,"Al,Ba,Na,Si,O",6,6,0,0,"White",Orthorhombic,1944,0
+505,Bandjaspis,"",,,0,0,,,,0
+506,Bandylite,"Cl,Cu,B,O,H",2.5,2.5,2.81,2.81,"Deep blue with greenish portions; cendre blue to Italian blue, becoming greener with atacamite inclusions; blue in transmitted light.",Tetragonal,1938,0
+507,Bannermanite (of Thompson),"O,V",,,0,0,"Pink",,,0
+508,Bannermanite,"Na,O,K,V",,,3.5,3.5,"Black, light brown on thin edges in transmitted light",Monoclinic,1983,0
+509,Bannisterite,"Al,Ca,Fe,Mn,Na,Si,O,K,H",4,4,2.83,2.84,"Dark brown",Monoclinic,1967,0
+510,Baotite,"Ba,Cl,Nb,Si,Ti,O,W",6,6,4.42,4.71,"Light Brown, black",Tetragonal,1959,0
+511,Bararite,"Si,N,F,H",2.5,2.5,2.152,2.152,"White; colourless in thin section",Trigonal,1951,0
+512,Baratovite,"Ca,Li,Si,Ti,Zr,O,K,F",5,6,2.92,2.92,"White, colorles, pink",Monoclinic,1975,0
+513,Barberiite,"N,B,F,H",1,1,1.89,1.89,"Colourless",Orthorhombic,1994,0
+516,Barbosalite,"Fe,O,P,H",5.5,6,3.60,3.62,"Black to dark blue-green, green, blue green, green blue, greenish black, black",Monoclinic,1954,0
+517,Barcenite,"",5.5,5.5,0,0,"Dark gray, nearly black",,1878,0
+518,Bardiglio,"",,,0,0,,,,0
+519,Bardolite,"Al,Fe,Mg,Si,O,K",,,0,0,,,,0
+520,Barentsite,"Al,Na,O,C,F,H",3,3,2.56,2.56,"Colourless",Triclinic,1983,0
+521,Barettite,"Ca,Fe,Mg,Si,O,H",,,0,0,,,1994,0
+522,Bariandite,"Al,O,H,V",,,2.7,2.7,"Black to dark green",Monoclinic,,0
+524,Barićite,"Fe,Mg,O,P,H",1.5,2,2.35,2.42,"Pale blue, medium blue, colorless",Monoclinic,,0
+525,Bario-orthojoaquinite,"Ba,Fe,Si,Sr,Ti,O,H",5,5.5,3.959,3.959,"Yellow-brown",Orthorhombic,1982,0
+533,Barnesite,"Ca,Na,O,H,V",3,3,3.09,3.15,"Brilliant dark red; brownish red on exposure",Monoclinic,,0
+534,Barnhardtite,"",,,0,0,,,,0
+536,Barrerite,"Al,Na,Si,O,H",3,4,2.3,2.3,"White, Pink",Orthorhombic,1974,0
+537,Barringerite,"Fe,Ni,P",7,7,0,0,"Yellowish gray",Hexagonal,,0
+538,Barringtonite,"Mg,O,C,H",,,0,0,,Triclinic,1965,0
+539,Barroisite,"Al,Ca,Mg,Na,Si,O,H",5,6,0,0,"Bluish-green to green.",Monoclinic,1922,0
+540,Barstowite,"Cl,Pb,O,C,H",3,3,5.71,5.71,"Transparent to white",Monoclinic,,0
+541,Bartelkeite,"Fe,Ge,Pb,O,H",4,4,0,0,"Colourless, white to very pale greenish",Monoclinic,,0
+543,Bartholomite,"Na,Fe,O,S,H",,,0,0,"Yellow.",,,0
+544,Bartonite,"Fe,K,S",3.5,3.5,3.305,3.305,"Blackish-brown",Tetragonal,1978,0
+545,Barylite,"Ba,Be,Si,O",7,7,4.066,4.066,"Bluish white, colourless",Orthorhombic,1876,0
+546,Barysilite,"Mn,Pb,Si,O",3,3,6.55,6.71,"White, pink to colorless; tarnishes on exposure",Trigonal,1888,0
+549,Baryte,"Ba,O,S",3,3,4.50,4.50,"Colourless, white, yellow, brown, grey, blue, etc.; colourless in transmitted light (also tinted yellow, brown, green, blue, etc.)",Orthorhombic,,0
+550,Baryto-Fluate of Lime,"",,,0,0,,,,0
+553,Barytocalcite (of Kirwan),"",,,0,0,,,,0
+554,Basaltic Hornblende,"",,,0,0,,,,0
+556,Basiliite,"",,,0,0,"Steel-blue; blood-red in thin splinters",,1892,0
+557,Bassanite,"Ca,O,S,H",,,2.69,2.76,"White",Monoclinic,1910,0
+558,Bassetite,"Fe,O,P,H,U",2.5,2.5,3.40,3.63,"brownish yellow, olive-green, yellow, bronze-yellow.",Monoclinic,1915,0
+560,Bastnäsite-(Ce),"Ce,O,C,F",4,4.5,4.9,5.2,"Yellow, reddish-brown; colourless to light yellow in transmitted light",Hexagonal,,0
+561,Bastnäsite-(La),"La,O,C,F",4,5,0,0,,Hexagonal,,0
+562,Bastnäsite-(Y),"O,C,F,Y",4,4.5,0,0,"Translucent brick-red",Hexagonal,,0
+564,Bastonite,"Al,Fe,Mg,Si,O,K,H",,,0,0,,,,0
+567,Bathvillite,"",,,0,0,,,,0
+568,Batisite,"Ba,Na,Si,Ti,O",5.5,6,3.432,3.432,"Dark brown",Orthorhombic,1959,0
+570,Bauerite,"Si,O",7,7,0,0,,Trigonal,,0
+571,Argentobaumhauerite,"Ag,As,Pb,S",3,3,0,0,"Steel grey",Triclinic,,0
+572,Baumhauerite,"As,Pb,S",3,3,5.33,5.44,"Lead-grey, steel-grey; iridescent at times",Triclinic,1902,0
+574,Bauranoite,"Ba,O,H,U",5,5,5.283,5.42,"Reddish brown",,,0
+577,Bavenite,"Al,Be,Ca,Si,O,H",5.5,5.5,2.71,2.74,"White",Orthorhombic,1901,0
+578,Bayankhanite,"Cu,Hg,S",3,3.5,0,0,"Pale brown/bluish-grey",,,0
+580,Bayerite,"Al,O,H",,,2.53,2.53,"White",Monoclinic,,0
+581,Bayldonite,"As,Cu,Pb,O,H",4.5,4.5,5.24,5.65,"Green, apple-green, yellow-green; dark green to black (crystals)",Monoclinic,1865,0
+582,Bayleyite,"Mg,O,C,H,U",2,2.5,2.05,2.05,"Yellow, whitish yellow",Monoclinic,1948,0
+583,Baylissite,"Mg,O,C,K,H",2,3,2.01,2.01,"Colourless",Monoclinic,1976,0
+584,Bazhenovite,"Ca,O,S,H",2,2,1.83,1.83,"Orange to yellow",Monoclinic,,0
+585,Bazirite,"Ba,Si,Zr,O",6,6.5,0,0,"Colourless",Hexagonal,1975,0
+586,Bazzite,"Be,Sc,Si,O",6.5,7,2.77,2.8,"Deep blue or other shades of blue, blue-green.",Hexagonal,1915,0
+589,Bearsite,"As,Be,O,H",,,1.8,2.0,"White",Monoclinic,1962,0
+590,Bearthite,"Al,Ca,O,P,H",4,5,0,0,"Pale yellow",Monoclinic,1986,0
+591,Beaverite-(Cu),"Cu,Fe,Pb,O,S,H",3.5,4.5,4.36,4.36,"Yellow",Trigonal,1911,0
+593,Bechererite,"Cu,Si,Zn,O,S,H",2,3,3.45,3.45,"Light green, ice blue, colourless",Trigonal,,0
+594,Bechilite,"Ca,B,O,H",,,0,0,,,,0
+597,Becquerelite,"Ca,O,H,U",2.5,2.5,5.09,5.2,"Amber-yellow, golden to lemon-yellow, yellow-orange, brownish yellow; yellow in transmitted light",Orthorhombic,,0
+598,Bedenite,"",,,0,0,,,,0
+599,Beegerite,"Bi,Pb,S",,,7.27,7.27,"Light to dark gray",,,0
+602,Béhierite,"Nb,Ta,B,O",7,7.5,7.86,7.86,"Greyish pink; pale lilac; colorless to white",Tetragonal,1959,0
+603,Behoite,"Be,O,H",4,4,1.92,1.92,"Colourless or white, rarely pale pink to pale grey; may show anomalous blue and brown interference colours in transmitted light",Orthorhombic,,0
+604,Beidellite,"Al,Ca,Na,Si,O,H",1,2,2,3,"White, reddish, brownish-grey",Monoclinic,1925,0
+605,Beiyinite,"",,,0,0,,,,0
+606,Belbaite,"",,,0,0,,,,0
+607,Beldongrite,"Fe,Mn,O,H",,,0,0,,,,0
+608,Belendorffite,"Cu,Hg",2.5,4,13.2,13.2,"Silvery",Trigonal,1992,0
+609,Belkovite,"Ba,Nb,Si,Ti,O",6,7,4.16,4.16,"Brown",Hexagonal,1991,0
+610,Bellbergite,"Al,Ba,Ca,Na,Si,Sr,O,K,H",5,5,2.2,2.2,"Colourless to white",Hexagonal,1993,0
+611,Bellidoite,"Cu,Se",1.5,2,0,0,"Creamy-white",Tetragonal,1975,0
+612,Bellingerite,"Cu,O,H,I",4,4,4.88,4.9,"Green, light green; light bluish green in transmitted light",Triclinic,1940,0
+614,Belmontite,"Pb,Si,O",,,0,0,,,,0
+615,Belomorite,"",,,,,,,,0
+616,Belonite (of Zirkel),"",,,0,0,,,,0
+617,Belonosphärite,"",,,0,0,,,,0
+618,Belovite-(Ce),"Ce,Na,Sr,O,P,F",5,5,4.19,4.19,"Honey-yellow, greenish yellow; in transmitted light colourless to slightly yellow",Trigonal,,0
+619,Belyankinite,"Ca,Nb,Ti,O,H",2,3,2.32,2.4,"White, light yellow to brownish-yellow; black when manganese-rich",Amorphous,,0
+621,Bementite,"Mn,Si,O,H",6,6,2.9,3.1,"Brown, dark brown, golden brown, grayish-yellow",Monoclinic,1887,0
+622,Benauite,"Fe,Sr,O,P,H",3.5,3.5,3.65,3.65,"Yellow to brown",Trigonal,,0
+623,Benavidesite,"Mn,Pb,Sb,S",2.5,2.5,0,0,"Lead Grey",Monoclinic,1982,0
+624,Benitoite,"Ba,Si,Ti,O",6,6.5,3.65,3.65,"Sapphire blue, white to colorless, pink",Hexagonal,1907,0
+625,Benjaminite,"Ag,Bi,S",3.5,3.5,6.34,6.34,"Grey; tarnishes dull or yellow to copper-red",Monoclinic,1924,0
+626,Benstonite,"Ba,Ca,Mg,O,C",3,4,3.956,3.956,"White to ivory, very pale yellow, pale yellowish brown",Trigonal,1961,0
+627,Bentorite,"Ca,Cr,O,S,H",2,2,2.025,2.025,"Violet to rose-purple",Trigonal,1975,0
+628,Beraunite,"Fe,O,P,H",3,4,2.8,3.08,"Dark red, reddish, brown-red",Monoclinic,1841,0
+629,Berborite,"Be,B,O,F,H",3,3,2.200,2.200,"Colourless",Trigonal,1967,0
+630,Berdesinskiite,"Ti,O,V",6,6.5,0,0,"Black",Monoclinic,1980,0
+631,Bergenite,"Ba,Ca,O,P,H,U",,,0,0,"Yellow",Monoclinic,1959,0
+632,Bergslagite,"As,Be,Ca,O,H",5,5,3.4,3.4,"Colourless, white, grey, dark grey-brown, brownish black, green, pink",Monoclinic,1975,0
+633,Berlinite,"Al,O,P",6.5,6.5,2.64,2.66,"Colourless, greyish or pale pink; colourless in transmitted light.",Trigonal,1868,0
+634,Bermanite,"Mn,O,P,H",3.5,3.5,2.84,2.85,"Reddish-brown; yellowish brown to brownish red with red internal reflections in transmitted light",Monoclinic,1936,0
+635,Bernalite,"Fe,O,H",4,4,3.32,3.32,"Dark bottle-green to yellow-green; yellowish bottle-green in thin section",Orthorhombic,1992,0
+636,Bernardite,"As,Tl,S",2,2,4.5,4.5,"Black",Monoclinic,1987,0
+637,Berndtite,"Sn,S",1,2,4.5,4.5,"Yellow-brown",Trigonal,,0
+638,Berryite,"Ag,Bi,Cu,Pb,S",3.5,3.5,6.7,6.7,"Bluish-grey, white, grey-white",Monoclinic,1952,0
+639,Berthierine,"Al,Fe,Si,O,H",2.5,2.5,0,0,"Dark olive green, yellowish green; reddish brown (Ti-bearing variety)",Monoclinic,,0
+640,Berthierite,"Fe,Sb,S",2,3,4.64,4.64,"Dark steel-grey, often with iridescent tarnish.",Orthorhombic,1827,0
+641,Bertossaite,"Al,Ca,Fe,Li,Mn,Na,O,P,F,H",6,6,3.10,3.10,"Pale pink",Orthorhombic,1965,0
+642,Bertrandite,"Be,Si,O,H",6,7,2.59,2.6,"Colourless, pale yellow",Orthorhombic,1883,0
+643,Beryllite,"Be,Si,O,H",1,1,2.196,2.196,"White",Orthorhombic,1954,0
+644,Beryllonite,"Be,Na,O,P",5.5,6,2.77,2.85,"Colourless, white, rarely pale light yellow; colourless in transmitted light.",Monoclinic,1888,0
+645,Berzelianite,"Cu,Se",2,2,6.71,6.71,"Silver-White, shiny lead-grey; easily tarnishes iridescent blue-grey",Isometric,1832,0
+646,Berzeliite,"As,Ca,Mg,Na,O",4.5,5,4.08,4.27,"Yellow, Orange, colorless, brownish-orange; colorless to orange in transmitted light.",Isometric,1840,0
+647,Paralomonosovite,"Na,Si,Ti,O,P,F,H",4,4,2.98,2.98,"Yellowish-brown, rose, brown",Triclinic,1938,0
+650,Betekhtinite,"Cu,Fe,Pb,S",3,3.5,5.96,6.05,"Black",Orthorhombic,1955,0
+651,Betpakdalite-CaCa,"As,Ca,Fe,Mo,O,H",3,3,2.98,3.05,"Lemon-yellow with greenish tint",Monoclinic,1961,0
+652,Beudantite,"As,Fe,Pb,O,S,H",3.5,4.5,4.48,4.48,"Black, dark green, brown, dark yellow, red, greenish yellow, brown",Trigonal,1826,0
+653,Beusite,"Mn,O,P",5,5,3.60,3.70,"Reddish-brown to pinkish brown",Monoclinic,1968,0
+654,Beyerite,"Bi,Ca,O,C",2,3,6.56,6.56,"White to bright yellow, or greyish-green, grey; light yellow to colourless in transmitted light",Orthorhombic,1943,0
+656,Bezsmertnovite,"Ag,Au,Cu,Pb,Te",4.5,4.5,0,0,"Yellow",Orthorhombic,1979,0
+657,Bhreckite,"Ca,Fe,Mg,Si,O,H",,,0,0,,,,0
+658,Bismutohauchecornite,"Bi,Ni,S",4.5,5.5,0,0,"Bronze-yellow",Tetragonal,1978,0
+660,Bianchite,"Zn,O,S,H",2.5,2.5,2.03,2.07,"White, Yellowish; colourless in transmitted light.",Monoclinic,1930,0
+661,Bicchulite,"Al,Ca,Si,O,H",,,2.75,2.75,"Colourless to white, gray",Isometric,1973,0
+662,Bideauxite,"Ag,Cl,Pb,O,F,H",3,3,6.274,6.274,"Colourless, becoming pale lavender on exposure to light",Isometric,,0
+663,Bismutotantalite,"Bi,Nb,Ta,O",5,5.5,8.15,8.89,"Light brown to pitch-black; very thin splinters are light smoke-grey to colourless in transmitted light",Orthorhombic,1929,0
+664,Bieberite,"Co,O,S,H",2,2,1.96,1.96,"Red-pink, flesh-red; colourless to pale rose in transmitted light.",Monoclinic,1845,0
+665,Bismutomicrolite (of Hogarth 1977),"",5,5,6.5,6.5,"Yellow, pink, brown; dark grey to black",Isometric,1977,0
+666,Bielzite,"",,,0,0,,,,0
+667,Bismutoferrite,"Bi,Fe,Si,O,H",6,6,4.47,4.47,"yellow, green",Monoclinic,1871,0
+668,Biharite,"",,,0,0,,,,0
+669,Bijvoetite-(Y),"O,C,H,U,Y",2,2,3.9,3.9,"Yellow",Monoclinic,,0
+670,Bikitaite,"Al,Li,Si,O,H",6,6,2.28,2.34,"Colorless, White",Triclinic,1957,0
+671,Bilibinite,"",,,0,0,,,,0
+672,Bilibinskite,"Au,Cu,Pb,Te",4.5,4.5,12.7,12.7,"Light brown, rose brown",Isometric,1978,0
+673,Bílinite,"Fe,O,S,H",2,2,1.875,1.99,"White to yellowish",Monoclinic,1913,0
+674,Billietite,"Ba,O,H,U",,,5.28,5.36,"Yellow to golden-yellow, amber-yellow, orange-yellow",Orthorhombic,,0
+675,Billingsleyite,"Ag,As,S",2.5,2.5,5.92,5.92,"Dark lead-grey",Isometric,1968,0
+676,Bindheimite,"Pb,Sb,O",4,4.5,4.6,8.4,"Yellow, yellow-brown, brown, white, grey, greenish; colourless to yellow and brown in transmitted light",Isometric,1800,0
+678,Biphosphammite,"N,O,P,H",1,2,2.04,2.04,"White, pale yellow or colorless; colorless in transmitted light.",Tetragonal,1870,0
+679,Biringuccite,"Na,B,O,H",,,2.32,2.32,"White to pale yellow.",Monoclinic,1961,0
+680,Birnessite,"Ca,Mn,Na,O,H",1.5,1.5,3,3,"Black; dark brown in transmitted light",Monoclinic,1956,0
+681,Bischofite,"Cl,Mg,O,H",1,2,1.591,1.604,"Colourless to white; colourless in transmitted light",Monoclinic,1877,0
+682,Bismite,"Bi,O",4.5,4.5,8.64,9.22,"Greyish green, greenish yellow to bright yellow",Monoclinic,1868,0
+683,Bismoclite,"Bi,Cl,O",2,2.5,7.36,7.36,"Cream-white, grayish-white, light yellowish-brown; colorless in thin section",Tetragonal,1935,0
+684,Bismuth,"Bi",2,2.5,9.7,9.83,"Reddish-white to creamy-white; tarnishes iridescent pinkish, yellowish or bluish",Trigonal,1546,0
+685,Bismuth Ochre,"",,,,,,,,0
+686,Bismuthinite,"Bi,S",2,2.5,6.78,6.78,"Lead gray to tin white",Orthorhombic,1832,0
+687,Bismutite,"Bi,O,C",2.5,3.5,6.7,7.4,"Yellow to brown, greenish, green-grey, grey or black; colourless or tinted in shades of faint yellow, green, etc. in transmitted light.",Orthorhombic,1841,0
+688,Bismutocolumbite,"Bi,Nb,Ta,O",5.5,5.5,7.17,7.17,"Black; brown in transmitted light",Orthorhombic,,0
+689,Bityite,"Al,Be,Ca,Li,Si,O,H",5.5,5.5,3.05,3.05,"White, yellowish, colourless, brownish",Monoclinic,1908,0
+691,Bixbyite-(Mn),"Mn,O",6,6.5,4.945,4.945,"Black",Isometric,1897,0
+692,Bjarebyite,"Al,Ba,Fe,Mg,Mn,Sr,O,P,H",4,4,3.90,3.95,"Emerald green",Monoclinic,1973,0
+693,Blakeite,"Fe,Te,O",2,3,0,0,"Brown or dark reddish brown; golden yellow to yellowish brown and brown in transmitted light.",,,0
+694,Blatterite,"Fe,Mg,Mn,Sb,B,O",6,6,0,0,"Black",Orthorhombic,1984,0
+695,Blödite,"Mg,Na,O,S,H",2.5,3,2.218,2.24,"Colourless, bluish-green, reddish; colourless in transmitted light.",Monoclinic,,0
+696,Blixite,"Cl,Pb,O,H",3,3,7.35,7.35,"Pale yellow, yellow-orange to greyish yellow",Orthorhombic,,0
+697,Blossite,"Cu,O,V",,,3.95,3.97,"Black",Orthorhombic,,0
+700,Bobfergusonite,"Al,Fe,Mn,Na,O,P",4,4,3.54,3.54,"Green-brown to red-brown",Monoclinic,1984,0
+701,Bobierrite,"Mg,O,P,H",2,2.5,2.195,2.195,"Colorless to gray-white; colorless in transmitted light.",Monoclinic,1868,0
+702,Bogdanovite,"Au,Cu,Fe,Pb,Te",4.5,4.5,0,0,"Rose brown to bronze",Isometric,1978,0
+703,Bøggildite,"Al,Na,Sr,O,P,F",4,5,3.66,3.66,"Translucent flesh red",Monoclinic,,0
+704,Boggsite,"Al,Ca,Na,Si,O,H",3.5,3.5,1.98,1.98,"White, colourless",Orthorhombic,1990,0
+705,Bøgvadite,"Al,Ba,Na,Sr,F",4,4,3.85,3.85,"Colourless",Monoclinic,,0
+706,Bohdanowiczite,"Ag,Bi,Se",3,3.5,0,0,"Creamy-yellow to pink in reflected light",Trigonal,1967,0
+707,Böhmite,"Al,O,H",3.5,3.5,3.02,3.05,"White, pale greyish brown; yellowish or reddish when impure; colourless in thin section",Orthorhombic,,0
+709,Bokite,"Al,Fe,O,H,V",3,3,2.97,3.1,"Black",Monoclinic,,0
+710,Bole,"",,,0,0,,,,0
+711,Boleslavite,"",,,0,0,,,,0
+712,Boleite,"Ag,Cl,Cu,Pb,O,K,H",3,3.5,5.054,5.054,"Deep prussian blue to indigo; bluish green in transmitted light",Isometric,1891,0
+713,Bolivarite,"Al,O,P,H",2.5,2.5,1.97,2.05,"Pale greenish-yellow",Amorphous,1921,0
+714,Bolivite,"",,,0,0,,,,0
+715,Bolivianite (of Breithaupt),"",,,0,0,,,,0
+716,Boltwoodite,"Na,Si,O,K,H,U",3.5,4,4.7,4.7,"Pale yellow, orange yellow",Monoclinic,1956,0
+717,Bonaccordite,"Fe,Ni,B,O",7,7,0,0,"Reddish-brown, light grey",Orthorhombic,1974,0
+718,Bonattite,"Cu,O,S,H",,,2.663,2.663,"Pale blue",Monoclinic,1957,0
+719,Bonshtedtite,"Fe,Na,O,P,C",4,4,2.95,3.16,"Colorless, with rose, yellowish, or greenish tint",Monoclinic,1982,0
+720,Boothite,"Cu,O,S,H",2,2.5,1.94,1.94,"Light blue; light blue in transmitted light",Monoclinic,1903,0
+721,Boracite,"Cl,Mg,B,O",7,7.5,2.91,3.1,"Green, blue, colourless, grey, white; dark green (ferroan); colourless in transmitted light",Orthorhombic,,0
+722,Borax,"Na,B,O,H",2,2.5,1.715,1.715,"Colourless, grey, white, yellowish, seldom bluish or greenish; colourless in transmitted light.",Monoclinic,1546,0
+723,Borcarite,"Ca,Mg,B,O,C,H",4,4,2.77,2.77,"Greenish-blue to bluish green, nearly colorless, colorless in section",Monoclinic,1965,0
+725,Bornemanite,"Ba,Na,Nb,Si,Ti,O,P,F,H",3.5,4,3.47,3.5,"pale yellow",Triclinic,,0
+726,Bornhardtite,"Co,Se",4,4,0,0,"Rose-red",Isometric,1955,0
+727,Bornite,"Cu,Fe,S",3,3,5.06,5.09,"Copper-red to pinchbeck-brown, quickly tarnishing to an iridescent purplish surface.",Orthorhombic,1725,0
+728,Borodaevite,"Ag,Bi,Fe,Pb,Sb,S",3.5,3.5,0,0,"Black",Monoclinic,1991,0
+729,Boromuscovite,"Al,Si,B,O,K,H",2.5,3,2.81,2.81,"White",Monoclinic,1991,0
+730,Borovskite,"Pd,Sb,Te",3,3,0,0,"Dark gray",Isometric,1973,0
+731,Bostwickite,"Ca,Mn,Si,O,H",1,1,2.93,2.93,"Brownish red",Orthorhombic,1983,0
+732,Botallackite,"Cl,Cu,O,H",,,3.6,3.6,"Mountain-green, bluish green to green; pale bluish green in transmitted light",Monoclinic,1865,0
+733,Botryogen,"Fe,Mg,O,S,H",2,2.5,2.14,2.14,"Light to dark orange-red; pale to dark orange",Monoclinic,,0
+735,Bottinoite,"Ni,Sb,O,H",3.5,3.5,2.83,2.83,"Pale blue to pale blue-green",Trigonal,,0
+737,Bouglisite,"",,,0,0,,,,0
+738,Boulangerite,"Pb,Sb,S",2.5,3,6.2,6.2,"Lead grey",Monoclinic,1837,0
+739,Bourboulite,"",,,0,0,,,,0
+740,Bournonite-nickelglanz,"",,,0,0,,Isometric,,0
+741,Bournonite,"Cu,Pb,Sb,S",2.5,3,5.83,5.83,"Steel-gray",Orthorhombic,1805,0
+742,Boussingaultin,"",,,0,0,,,,0
+743,Boussingaultite,"Mg,N,O,S,H",2,2,1.722,1.722,"Colourless, yellowish-pink; colourless in transmitted light.",Monoclinic,1864,0
+745,Bowieite,"Rh,S",7,7,0,0,"Pale-gray to Pale gray-brown",Orthorhombic,1980,0
+746,Boyleite,"Mg,Zn,O,S,H",2,2,0,0,"White",Monoclinic,1978,0
+748,Bracewellite,"Cr,O,H",5.5,6.5,4.45,4.48,"Deep red to black",Orthorhombic,1967,0
+749,Brackebuschite,"Mn,Pb,O,H,V",4,5,6.05,6.05,"Dark brown to black; reddish brown in transmitted light.",Monoclinic,1880,0
+750,Bradleyite,"Mg,Na,O,P,C",3,4,2.734,2.734,"Light grey",Monoclinic,1941,0
+751,Braggite,"Pd,Pt,S",5,5,9.63,9.63,,Tetragonal,1932,0
+752,Braitschite-(Ce),"Ca,Ce,La,Na,B,O,H",,,2.903,2.903,"Colorless to white",Hexagonal,,0
+753,Brandtite,"As,Ca,Mn,O,H",3.5,3.5,3.67,3.67,"Colourless, white, pink; colourless in transmitted light.",Monoclinic,1888,0
+754,Brannerite,"Ti,O,U",4.5,5.5,4.2,5.43,"Black, brownish olive-green, yellow-brown to yellow with alteration; yellowish green in transmitted light",Monoclinic,1920,0
+755,Brannockite,"Li,Si,Sn,O,K",5,6,2.98,2.98,"Colorless",Hexagonal,1973,0
+756,Brassite,"As,Mg,O,H",,,2.28,2.33,"White",Orthorhombic,1973,0
+757,Braunite,"Mn,Si,O",6,6.5,4.72,4.83,"Brownish black, steel-grey",Tetragonal,1827,0
+758,Bravaisite,"",,,0,0,,,,0
+760,Brazilianite,"Al,Na,O,P,H",5.5,5.5,2.98,2.98,"Chartreuse yellow, pale yellow, yellow green, colourless; coloured varieties are colourless in transmitted light.",Monoclinic,1945,0
+762,Bredigite,"Ca,Mg,Si,O",,,3.42,3.42,"Colorless, grey",Orthorhombic,1948,0
+763,Breithauptite,"Ni,Sb",5.5,5.5,7.591,8.23,"Copper-red with a violet tint",Hexagonal,1840,0
+764,Brenkite,"Ca,O,C,F",5,5,3.10,3.10,"Colorless",Orthorhombic,1977,0
+767,Brewsterlinite,"O,C",,,0,0,,,,0
+768,Brezinaite,"Cr,S",3.5,4.5,0,0,,Monoclinic,1969,0
+769,Brüggenite,"Ca,O,H,I",3.5,3.5,4.24,4.24,"Colorless to bright yellow.",Monoclinic,,0
+771,Brianite,"Ca,Mg,Na,O,P",4,5,3.00,3.10,"Colorless",Monoclinic,1966,0
+772,Brianyoungite,"Zn,O,C,S,H",2,2.5,3.93,4.09,"White, colourless",Monoclinic,1991,0
+773,Briartite,"Cu,Fe,Ge,Zn,S",3.5,4.5,0,0,"Gray to gray blue",Tetragonal,1965,0
+774,Brindleyite,"Al,Ni,Si,O,H",2.5,3,3.17,3.17,"Dark yellow-green",Monoclinic,1967,0
+775,Britholite-(Ce),"Ca,Ce,Si,O,H",5.5,5.5,4.20,4.69,"Colorless, pale pink to pink, pale blue, brown, greenish brown, yellow, resin brown, black.",Hexagonal,1897,0
+776,Britholite-(Y),"Ca,Si,O,H,Y",5,5,4.35,4.35,"Reddish-brown, black",Hexagonal,,0
+778,Brizziite,"Na,Sb,O",2.5,2.5,4.8,4.8,"Colourless, light pink or yellow in aggregates",Trigonal,,0
+779,Brochantite,"Cu,O,S,H",3.5,4,3.97,3.97,"Green, emerald green, green-black, light green; bluish green in transmitted light.",Monoclinic,1824,0
+780,Brockite,"Ca,Ce,Th,O,P,H",3,4,3.9,3.9,"Reddish brown, yellow",Hexagonal,1962,0
+782,Brokenhillite,"Si,Mn,O,H",,,0,0,,Hexagonal,,0
+783,Bromargyrite,"Ag,Br",2.5,2.5,6.474,6.474,"Yellowish, greenish brown, bright green",Isometric,1859,0
+784,Bromellite,"Be,O",9,9,3.017,3.017,"White to creamy white",Hexagonal,1925,0
+785,Eta-bronze,"Cu,Sn",2,2,0,0,"White to bronze",Hexagonal,,0
+786,Bronzeite-augite,"",,,0,0,,,,0
+787,Brookite,"Ti,O",5.5,6,4.08,4.18,"Brown, yellowish brown, reddish brown; dar brown to iron-black; yellowish brown to dark brown in transmitted light",Orthorhombic,1825,0
+789,Brostenite,"",,,0,0,,,,0
+790,Brownmillerite,"Al,Ca,Fe,O",,,3.76,3.76,"Reddish-brown",Orthorhombic,1964,0
+791,Brugnatellite,"Fe,Mg,O,C,H",2,2,2.14,2.14,"Pink to yellowish or brownish-white.",Hexagonal,1909,0
+792,Brunogeierite,"Fe,Ge,O",5,5,0,0,"Grey-black",Isometric,1972,0
+793,Brushite,"Ca,O,P,H",2.5,2.5,2.30,2.33,"Colorless, light yellow; colorless in transmitted light.",Monoclinic,1864,0
+794,Buchwaldite,"Ca,Na,O,P",3,3,0,0,"White",Orthorhombic,1974,0
+795,Buckhornite,"Au,Bi,Pb,Te,S",2.5,2.5,0,0,"Black",Orthorhombic,1992,0
+796,Buddingtonite,"Al,Si,N,O,H",5.5,5.5,2.32,2.32,"Colorless",Monoclinic,1963,0
+797,Bukovite,"Cu,Fe,Se,Tl",2,2,0,0,"Greyish-brown",Tetragonal,1971,0
+798,Bukovskýite,"As,Fe,O,S,H",5,5,2.334,2.334,"Pale yellowish-green to grayish-green",Triclinic,,0
+799,Bulachite,"Al,As,O,H",2,2,2.60,2.60,"White to blue-green",Orthorhombic,1982,0
+800,Bultfonteinite,"Ca,Si,O,F,H",4.5,4.5,2.73,2.73,"colourless, pink",Triclinic,1932,0
+801,Bunsenite,"Ni,O",5.5,5.5,6.898,6.898,"Dark pistachio-green",Isometric,1858,0
+802,Burangaite,"Al,Fe,Na,O,P,H",5,5,0,0,"Blue; colorless",Monoclinic,1976,0
+803,Burbankite,"Ba,Ca,Ce,Na,Sr,O,C",3.5,4,3.50,3.58,"Colorless, grayish yellow, pale yellow, pink, pale greenish.",Hexagonal,1953,0
+804,Burckhardtite,"Al,Fe,Pb,Si,Te,O",2,2,0,0,"Carmine-red to violet-red,  pink , brown (Mn-poor)",Trigonal,1976,0
+805,Burkeite,"Na,O,C,S",3.5,3.5,2.57,2.57,"White, light buff, grayish; colourless in transmitted light.",Orthorhombic,1921,0
+806,Burpalite,"Ca,Na,Si,Zr,O,F",5,6,3.33,3.33,"Colourless or yellowish",Monoclinic,1988,0
+807,Bursaite,"Bi,Pb,S",2.5,3,0,0,"Grey",Orthorhombic,,0
+808,Burtite,"Ca,Sn,O,H",3,3,3.28,3.28,"Colorless, pale yellow",Hexagonal,1980,0
+809,Bustamite,"Ca,Mn,Si,O",5.5,6.5,3.32,3.43,"Pale to medium pink; brownish red; colourless to yellowish pink in transmitted light",Triclinic,1922,0
+810,Butlerite,"Fe,O,S,H",2.5,2.5,2.548,2.548,"Dark orange; light yellow-orange in transmitted light.",Monoclinic,1928,0
+811,Buttgenbachite,"Cl,Cu,N,O,H",3,3,0,0,"Deep blue; blue in transmitted light.",Hexagonal,1925,0
+812,Byelorussite-(Ce),"Ba,Ce,Mn,Na,Si,Ti,O,F,H",5.5,6,3.92,3.92,"Pale yellow to pale brown",Orthorhombic,,0
+813,Bystrite,"Al,Ca,Cl,Na,Si,O,K,S",5,5,2.43,2.43,"Yellow",Trigonal,1990,0
+814,Byströmite,"Mg,Sb,O",7,7,5.5,5.5,"Bluish-grey",Tetragonal,,0
+817,Benleonardite,"Ag,As,Cu,Sb,Te,S",3,3,0,0,"Dark grey, black",Trigonal,1985,0
+818,Fluor-buergerite,"Al,Fe,Na,Si,B,O,F",7,7,3.311,3.311,"Bronze-brown to dark-brown.",Trigonal,1966,0
+819,Beryl,"Al,Be,Si,O",7.5,8,2.63,2.92,"Colorless, green, blue, yellow, white, pink, etc.",Hexagonal,77,0
+820,Brucite,"Mg,O,H",2.5,3,2.39,2.39,"White, light greenish, grayish, bluish; honey-yellow, brownish red deep brown (manganoan varieties)",Trigonal,1824,0
+821,Bütschliite,"Ca,O,C,K",,,0,0,"Grayish yellow, brownish gray, may be pale green",Trigonal,,0
+823,Ca-Huréaulite,"Ca,Mn,O,P,H",,,0,0,,,,0
+824,Ca-illite,"",,,0,0,,,,0
+826,Calciocopiapite,"Ca,Fe,O,S,H",2.5,3,0,0,"Grayish yellow to brownish yellow",Triclinic,1960,0
+827,Calcioburbankite,"Ca,Na,Sr,O,C",3,4,3.45,3.45,"Deep to pale orange, silky white to light pink, colorless",Hexagonal,1992,0
+828,Calciouranoite,"Ba,Ca,Pb,O,H,U",4,4,4.62,4.62,"Red-orange, yellow-brown, orange-brown, brown",,1974,0
+829,Calcioaravaipaite,"Al,Ca,Pb,F",2.5,2.5,4.85,4.85,"colorless to white",Triclinic,,0
+830,Calciocancrinite,"",,,0,0,,,,0
+831,Calciohilairite,"Ca,Si,Zr,O,H",4,4,2.68,2.68,"White to pale blue",Trigonal,1988,0
+832,Calcioferrite,"Ca,Fe,O,P,H",2.5,2.5,2.51,2.53,"Sulphur-yellow, greenish yellow to green, yellowish white; yellow in transmitted light.",Monoclinic,1858,0
+834,Calciotantite,"Ca,Ta,O",6.5,6.5,7.46,7.46,"Colorless",Hexagonal,1982,0
+837,Cabriite,"Cu,Pd,Sn",4,4,11.1,11.1,"White, pink with a slight violet tint",Orthorhombic,1981,0
+838,Cacheutaite,"",,,0,0,,,,0
+839,Cacoclase,"",,,0,0,,,,0
+840,Cacoxenite,"Al,Fe,O,P,H",3,4,2.2,2.6,"Yellow to brownish yellow, reddish orange, golden yellow, deep orange, green",Hexagonal,1825,0
+842,Cadmium,"Cd",1,2,8.65,8.65,"Tin-white with bluish tint",Hexagonal,1979,0
+844,Cadmoselite,"Cd,Se",4,4,5.47,5.47,"Black",Hexagonal,1957,0
+845,Cadwaladerite,"Al,Cl,O,H",,,1.66,1.66,"Yellow",Isometric,1941,0
+847,Caesium-Biotite,"",,,0,0,,,,0
+849,Cafarsite,"As,Ca,Fe,Mn,Ti,O,H",5.5,6,3.9,3.9,"Dark brown",Isometric,1966,0
+850,Cafetite,"Ca,Ti,O,H",4,5,3.28,3.28,"yellow, colourless",Monoclinic,1959,0
+851,Cahnite,"As,Ca,B,O,H",3,3,3.156,3.156,"Colorless to white, golden brown",Tetragonal,1921,0
+852,Calaverite,"Au,Te",2.5,3,9.1,9.4,"Brass yellow to silver white",Monoclinic,1861,0
+853,Calcareous Tufa,"",,,0,0,,,,0
+854,Calciborite,"Ca,B,O",3.5,3.5,2.878,2.878,"Colorless to white",Orthorhombic,1955,0
+855,Calcioancylite-(Ce),"Ca,Ce,Sr,O,C,H",4,4.5,0,0,"Colourless, white, pale pink, pink, grey",Orthorhombic,,0
+856,Calcioancylite-(Nd),"Ca,Ce,La,Nd,O,C,H",4,4.5,4.02,4.02,"Pale pink",Monoclinic,,0
+857,Calcio-biotite,"",,,0,0,,,,0
+859,Calcite,"Ca,O,C",3,3,2.7102,2.7102,"White, Yellow, Red, Orange, Blue, Green, Brown, Gray etc.",Trigonal,,0
+860,Calciocatapleiite,"Ca,Si,Zr,O,H",4.5,5,2.77,2.77,"Pale yellow to cream",Orthorhombic,,0
+861,Calcjarlite,"Al,Ca,Na,Sr,O,F,H",4,4,3.51,3.51,"White",Monoclinic,1973,0
+862,Calclacite,"Ca,Cl,O,C,H",,,1.5,1.5,"White",Monoclinic,1945,0
+863,Calcurmolite,"Ca,Mo,O,H,U",2,3,0,0,"bright yellow",Monoclinic,,0
+864,Calderite,"Fe,Mn,Si,O",7,7,4.05,4.05,"Dark reddish brown to dark yellowish, brown-yellow",Isometric,1909,0
+865,Caledonite,"Cu,Pb,O,C,S,H",2.5,3,5.75,5.77,"Dark blue to bluish-green; light bluish green in transmitted light.",Orthorhombic,1832,0
+866,Caliche Blanco,"",,,0,0,,,,0
+867,Calkinsite-(Ce),"Ce,La,O,C,H",2.5,2.5,3.28,3.28,"pale yellow",Orthorhombic,,0
+868,Callaghanite,"Cu,Mg,O,C,H",3,3.5,2.71,2.71,"Azure-blue ",Monoclinic,1952,0
+869,Calomel,"Cl,Hg",1.5,2,7.15,7.15,"Colourless, white, grayish, yellowish white, yellowish grey to ash-grey, brown; darkens upon exposure to light",Tetragonal,1612,0
+870,Calumetite,"Ca,Cl,Cu,O,H",2,2,0,0,"Azure blue; Powder blue",Orthorhombic,1963,0
+871,Calzirtite,"Ca,Ti,Zr,O",6,7,4.90,5.01,"Dark brown, nearly black",Tetragonal,1961,0
+872,Camérolaite,"Al,Cu,Sb,O,S,H",,,3.1,3.1,"Blue-green",Triclinic,1990,0
+873,Cameronite,"Ag,Cu,Te",3.5,4,0,0,"Gray",Monoclinic,1986,0
+874,Camgasite,"As,Ca,Mg,O,H",2,2,0,0,"Colourless",Monoclinic,1989,0
+875,Caminite,"Mg,O,S,H",2.5,2.5,2.58,2.79,"Colourless, white",Tetragonal,1983,0
+876,Campigliaite,"Cu,Mn,O,S,H",,,3.0,3.0,"Light blue",Monoclinic,1981,0
+877,Canaphite,"Ca,Na,O,P,H",2,2,2.24,2.24,"Colourless",Monoclinic,1983,0
+878,Canasite,"Ca,Na,Si,O,K,H",,,2.707,2.707,"Greenish yellow",Monoclinic,,0
+879,Canavesite,"Mg,B,O,C,H",,,0,0,"Milky-white",Monoclinic,1972,0
+880,Cancrinite,"Al,Ca,Na,Si,O,C,S,H",5,6,2.42,2.51,"grey-green, white, yellow, blue, orange, reddish",Hexagonal,1839,0
+881,Cancrisilite,"Al,Na,Si,O,C,H",5,5,2.40,2.40,"colourless, lilac, pale violet",Hexagonal,1990,0
+882,Canfieldite,"Ag,Sn,S",2.5,2.5,6.2,6.3,"Steel gray with reddish tint",Orthorhombic,1893,0
+883,Cannizzarite,"Bi,Pb,S",2,2,6.7,6.7,"White to silvery gray",Monoclinic,1924,0
+884,Cannonite,"Bi,O,S,H",4,4,0,0,"Colourless",Monoclinic,1992,0
+885,Caoclasite,"",,,0,0,,,,0
+886,Capgaronnite,"Ag,Cl,Hg,S",,,0,0,"Black, gray, greenish, yellow",Orthorhombic,1992,0
+889,Cappelenite-(Y),"Ba,Ce,Si,B,O,F,Y",6,6.5,4.407,4.407,"greenish-brown",Trigonal,1884,0
+890,Caracolite,"Cl,Na,Pb,O,S",4.5,4.5,5.1,5.1,"Colourless, grayish, greenish stained; colourless in transmitted light.",Monoclinic,1886,0
+891,Carboborite,"Ca,Mg,B,O,C,H",2,2,2.12,2.12,"Colorless",Monoclinic,1964,0
+892,Carbocernaite,"Ba,Ca,Ce,Na,Sr,O,C",3,3,3.53,3.53,"Colorless; white, yellow, yellowish green, rose, or brown if altered.",Orthorhombic,1961,0
+893,Carboirite,"Al,Fe,Ge,O,H",6,6,0,0,"Green",Triclinic,1983,0
+894,Carbonatecyanotrichite,"Al,Cu,O,C,S,H",2,2,2.66,2.66,"Pale blue",Monoclinic,1963,0
+898,Carletonite,"Ca,Na,Si,O,C,K,F,H",4,4.5,2.45,2.45,"Colourless, light blue, dark blue, or pink",Tetragonal,1971,0
+899,Carlfriesite,"Ca,Te,O",3.5,3.5,6.3,6.3,"Yellow",Monoclinic,1975,0
+900,Carlhintzeite,"Al,Ca,O,F,H",,,2.86,2.86,"Colorless",Triclinic,1979,0
+901,Carlinite,"Tl,S",1.5,2,8.1,8.1,"Grey",Trigonal,1975,0
+902,Carlosruizite,"Mg,Na,Se,O,K,H,I",2.5,3,0,0,"Colourless to pale yellow.",Trigonal,1994,0
+903,Carlosturanite,"Al,Fe,Mg,Si,Ti,O,H",2.5,2.5,2.63,2.63,"Light brown",Monoclinic,1985,0
+904,Carlsbergite,"Cr,N",7,7,0,0,,Isometric,1971,0
+905,Carminite,"As,Fe,Pb,O,H",3.5,3.5,5.03,5.18,"Carmine-red, terra cotta-red, reddish brown; red in transmitted light.",Orthorhombic,1850,0
+906,Carnallite,"Cl,Mg,O,K,H",2.5,2.5,1.602,1.602,"Yellow to white, reddish, seldom white, colourless or blue.",Orthorhombic,1856,0
+907,Carnotite,"O,K,H,U,V",2,2,4.70,4.70,"Bright yellow, yellow, greenish yellow",Monoclinic,1899,0
+908,Carobbiite,"K,F",2,2.5,2.505,2.505,"Colourless",Isometric,1956,0
+909,Carpholite,"Al,Mn,Si,O,H",5,5.5,2.935,3.031,"Yellow",Orthorhombic,1817,0
+910,Carrboydite,"Al,Ni,O,S,H",,,2.50,2.50,"Yellowish-green, blue-green",Hexagonal,1974,0
+911,Carrollite,"Co,Cu,S",4.5,5.5,4.5,4.8,"Bright silver color",Isometric,,0
+912,Caryinite,"As,Ca,Mn,Na,Pb,O",4,4,4.29,4.29,"Brown to yellowish brown; light yellow-brown in transmitted light.",Monoclinic,1874,0
+913,Caryopilite,"Mn,Si,O,H",3,3.5,2.83,2.94,"Brown, reddish-brown, tan",Monoclinic,1889,0
+914,Cascandite,"Ca,Sc,Si,O,H",4.5,5.5,0,0,"Pale pink",Triclinic,1980,0
+915,Cassedanneite,"Cr,Pb,O,H,V",3.5,3.5,6.37,6.37,"Orange-red",Monoclinic,,0
+916,Cassidyite,"Ca,Ni,O,P,H",3.5,3.5,0,0,"Pale green to bright green.",Triclinic,,0
+917,Cassiterite,"Sn,O",6,7,6.98,7.01,"Black, yellow, brown, red or white.",Tetragonal,1832,0
+918,Caswellsilverite,"Cr,Na,S",2,2,0,0,"Yellowish-grey, Grey",Trigonal,1982,0
+919,Catapleiite,"Na,Si,Zr,O,H",5.5,6,2.65,2.9,"Dark brown, reddish brown, flesh red, yellowish red, colourless, light grey, beige to tan, light yellow, orange, light blue",Monoclinic,1850,0
+920,Cattierite,"Co,S",4,4,4.82,4.82,"Grey-white, pinkish",Isometric,1945,0
+921,Cavansite,"Ca,Si,O,H,V",3,4,2.21,2.31,"Greenish-blue to blue",Orthorhombic,1967,0
+922,Caysichite-(Y),"Ca,Er,Si,Yb,O,C,H,Y",4.5,4.5,3.03,3.03,"Colourless, white, pale yellow, rarely greenish",Orthorhombic,1969,0
+923,Cebaite-(Ce),"Ba,Ce,O,C,F",4.5,5,4.31,4.66,"Yellow to waxy-yellow",Monoclinic,Earl,0
+924,Cebollite,"Al,Ca,Si,O,H",5,5,0,0,"Colorless, white, greenish gray, reddish brown",Orthorhombic,1914,0
+925,Čechite,"Fe,Pb,O,H,V",4.5,5,5.88,5.88,"Black",Orthorhombic,1981,0
+926,Celadonite,"Fe,Mg,Si,O,K,H",2,2,2.95,3.05,"Blue-green, olive green, apple green",Monoclinic,1847,0
+927,Celestine,"Sr,O,S",3,3.5,3.96,3.98,"Colourless, shades of light blue, white, reddish, greenish, brownish, greyish; colourless or lightly tinted in transmitted light",Orthorhombic,1791,0
+928,Celsian,"Al,Ba,Si,O",6,6.5,3.10,3.39,"Colourless, white, yellow",Monoclinic,1895,0
+929,Cerianite-(Ce),"Ce,Th,O",,,0,0,"Dark green-amber",Isometric,,0
+931,Cerite-(CeCa),"Ca,Ce,Mg,Si,O,H",5.5,5.5,4.75,4.75,"Clove-brown with a reddish tinge; pale lavender- brown to colorless in thin fragments.",Trigonal,,0
+933,Ceruleite,"Al,As,Cu,O,H",5,6,2.70,2.803,"Turquoise-blue.",Monoclinic,,0
+934,Cerussite,"Pb,O,C",3,3.5,6.53,6.57,"Colourless, white, gray, blue, or green; colourless in transmitted light",Orthorhombic,,0
+935,Cervandonite-(Ce),"Al,As,Ce,Fe,La,Nd,Si,Ti,O,H",5,5,0,0,"Black",Trigonal,,0
+936,Cervantite,"Sb,O",4,5,6.5,6.5,"Yellow, off-white, reddish-white",Orthorhombic,1850,0
+937,Cervelleite,"Ag,Te,S",2,2,0,0,"dark grey, black",Monoclinic,1986,0
+938,Cesanite,"Ca,Na,O,S,H",2,3,2.786,2.786,"Colorless, white",Hexagonal,1981,0
+939,Cesàrolite,"Mn,Pb,O,H",4.5,4.5,5.29,5.29,"Steel-grey",Hexagonal,1920,0
+940,Cesbronite,"Cu,Te,O,H",3,3,4.45,4.45,"Emerald green, 'green beetle'",Orthorhombic,1974,0
+941,Cesplumtantite,"Cs,Na,Pb,Sb,Ta,O",7,7,0,0,"Colourless",Tetragonal,1986,0
+943,Cetineite,"Na,Sb,O,K,S,H",3.5,3.5,0,0,"Orange-red",Hexagonal,1986,0
+944,Chloroxyapatite,"Ca,Cl,O,P",,,0,0,,,,0
+945,Chalcosiderite,"Cu,Fe,O,P,H",4.5,4.5,3.22,3.22,"Dark green to apple-green",Triclinic,1814,0
+946,Chlorophoenicite,"As,Mg,Mn,Zn,O,H",3,3.5,3.46,3.46,"Usually colorless to white, also light gray-green (natural light); pink to light purplish red (strong artificial light)",Monoclinic,1924,0
+947,Chalcophanite,"Mn,Zn,O,H",2.5,2.5,3.907,4.1,"Iron-black, bluish black, dark red (in thin plates)",Trigonal,1875,0
+949,Chalcomenite,"Cu,Se,O,H",2,2.5,3.35,3.35,"Intense blue; pale blue in transmitted light.",Orthorhombic,1881,0
+950,Chloropal (of Schneiderhöhn),"",,,0,0,,,,0
+951,Chlorophaeite,"Ca,Fe,Mg,Si,O,H",,,0,0,,,,0
+952,Chrysoprase,"",,,0,0,"green",,,0
+953,Chloroxiphite,"Cl,Cu,Pb,O,H",2.5,2.5,6.76,6.93,"Dull olive green",Monoclinic,1923,0
+954,Chalconatronite,"Cu,Na,O,C,H",,,2.27,2.27,"Greenish-blue to pale blue",Monoclinic,1955,0
+955,Chalcopyrite,"Cu,Fe,S",3.5,4,4.1,4.3,"Brass yellow, often with an iridescent tarnish.",Tetragonal,1725,0
+957,Chabournéite,"Ag,As,Pb,Sb,Tl,S",3,3.5,5.104,5.104,"Black",Triclinic,,0
+958,Chaidamuite,"Fe,Zn,O,S,H",2.5,3,2.722,2.722,"Brown to yellowish-brown",Triclinic,,0
+959,Chalcanthite,"Cu,O,S,H",2.5,2.5,2.286,2.286,"Green, green blue, light blue, or dark blue; colourless to pale blue in transmitted light.",Triclinic,1853,0
+961,Chalcoalumite,"Al,Cu,O,S,H",2.5,2.5,2.29,2.29,"Turquoise-green, pale blue, bluish-grey; colourless in transmitted light.",Monoclinic,1925,0
+962,Chalcocite,"Cu,S",2.5,3,5.5,5.8,"Blue black, gray, black, black gray, or steel gray",Monoclinic,,0
+963,Chalcocyanite,"Cu,O,S",3.5,3.5,3.65,3.65,"Colourless, light green, brownish, yellowish, sky-blue; colourless in transitted light",Orthorhombic,1868,0
+964,Chalcolamprite,"",,,0,0,,,,0
+965,Chaméanite,"As,Cu,Fe,Se,S",4.5,4.5,0,0,"Grey",Isometric,,0
+966,Chambersite,"Cl,Mn,B,O",7,7,3.49,3.49,"Colorless to deep purple",Orthorhombic,1962,0
+967,Chamosite,"Al,Fe,Si,O,H",3,3,3.0,3.4,"Green, grey-green, brown-green, dark green, black",Monoclinic,1820,0
+968,Changbaiite,"Nb,Pb,O",5.5,5.5,6.48,6.48,"Colorless, cream-white, pale brown, yellowish brown, pale yellowish green.",Trigonal,1978,0
+969,Chantalite,"Al,Ca,Si,O,H",,,2.8,2.9,"Colorless to white",Tetragonal,1977,0
+970,Chapmanite,"Fe,Sb,Si,O,H",2.5,2.5,3.69,3.75,"Olive green to deep yellow",Monoclinic,1924,0
+971,Charlesite,"Al,Ca,Si,B,O,S,H",2.5,2.5,1.77,1.77,"Colorless, white",Trigonal,1981,0
+972,Charoite,"Ca,Na,Si,Sr,O,K,F,H",5,6,2.54,2.54,"Violet to deep lilac, whitish-grey to brown",Monoclinic,1978,0
+973,Chatkalite,"Cu,Fe,Sn,S",4.5,4.5,0,0,,Tetragonal,1981,0
+974,Chayesite,"Fe,Mg,Si,O,K",5,6,0,0,"Blue, brown, red",Hexagonal,1987,0
+975,Chrysotile,"Mg,Si,O,H",2.5,2.5,0,0,,Monoclinic,,0
+976,Chloropite,"",,,0,0,,,,0
+978,Chalcothallite,"Cu,Fe,Sb,Tl,S",2,2.5,6.6,6.6,"Lead Grey to iron black",Tetragonal,1978,0
+979,Chalcophyllite,"Al,As,Cu,O,S,H",2,2,2.67,2.69,"Emerald green, grass green, bluish green, blue; green in transmitted light",Trigonal,1841,0
+981,Chlorophyllite,"",,,0,0,,,,0
+982,Chlorothionite,"Cl,Cu,O,K,S",2.5,2.5,2.67,2.67,"Bright blue.",Orthorhombic,1872,0
+983,Chalcostibite,"Cu,Sb,S",3,4,4.9,5,"Lead-gray, iron gray",Orthorhombic,1835,0
+984,Chekhovichite,"Bi,Te,O",4,4,6.88,6.88,"Grayish yellow, pale gray, or grayish green",Monoclinic,1987,0
+985,Chelkarite,"Ca,Cl,Mg,B,O,H",,,2.21,2.21,"Colorless",Orthorhombic,1968,0
+986,Chenevixite,"As,Cu,Fe,O,H",3.5,4.5,4.38,4.38,"Olive green, yellow-green, dark green.",Monoclinic,1866,0
+987,Chenite,"Cu,Pb,O,S,H",2.5,2.5,5.98,5.98,"Sky blue, pale blue",Triclinic,1983,0
+988,Cheralite-(Ce),"",,,0,0,,,,0
+989,Cheremnykhite,"Pb,Te,Zn,O,V",5.5,5.5,6.44,6.44,"Greenish yellow",Orthorhombic,1990,0
+990,Cherepanovite,"As,Rh",6,6,0,0,"Gray-white",Orthorhombic,1985,0
+991,Chernikovite,"O,P,H,U",2,2.5,3.259,3.259,"pale yellow",Tetragonal,1988,0
+992,Chernovite-(Y),"As,O,Y",4,5,0,0,"Colorless, pale yellow",Tetragonal,,0
+993,Chernykhite,"Al,Ba,Mg,Na,Si,O,H,V",2.5,4.5,3.14,3.16,"Olive green to dark green",Monoclinic,1972,0
+995,Chervetite,"Pb,O,V",2,2.5,6.30,6.49,"Gray to brown",Monoclinic,1963,0
+996,Chessexite,"Al,Ca,Mg,Na,Si,Zn,O,K,S,H",,,0,0,"White",Orthorhombic,1981,0
+997,Chesterite,"Fe,Mg,Si,O,H",2,2.5,0,0,"colorless to very light pinkish brown",Orthorhombic,1977,0
+998,Chestermanite,"Al,Fe,Mg,Mn,Sb,B,O",6,6,3.72,3.72,"greyish-green to black in coarse crystals",Orthorhombic,1986,0
+1002,Chiavennite,"Be,Ca,Mn,Si,O,H",3,3,2.64,2.64,"Pale orange-yellow",Monoclinic,1970,0
+1003,Childrenite,"Al,Fe,O,P,H",5,5,3.11,3.19,"Yellowish brown, brown, clove-brown",Orthorhombic,1823,0
+1004,Chiluite,"Bi,Mo,Te,O",3,3,3.65,3.65,"Yellow",Hexagonal,1989,0
+1006,Chiolite,"Al,Na,F",2.5,2.5,2.998,2.998,"Nearly colourless, snow-white",Tetragonal,1846,0
+1007,Chkalovite,"Be,Na,Si,O",6,6,2.662,2.662,"White",Orthorhombic,1938,0
+1008,Chladniite,"Ca,Mg,Na,O,P",4.5,5,0,0,"Colorless",Trigonal,1993,0
+1010,Chlor-manasseite,"Al,Cl,Mg,O,H",,,0,0,,,,0
+1011,Chlor-spodiosite,"Ca,Cl,O,P",,,0,0,,,,0
+1012,Chloraluminite,"Al,Cl,O,H",,,1.644,1.644,"Colourless to white; yellowish; colourless in transmitted light.",Trigonal,1873,0
+1013,Chlorapatite,"Ca,Cl,O,P",5,5,3.17,3.18,"White",Hexagonal,,0
+1014,Chlorargyrite,"Ag,Cl",1.5,2.5,5.556,5.556,"Colourless (fresh); bright chartreuse-green, light yellow, light green, grey; becoming violet-brown on exposure to light.",Isometric,1565,0
+1015,Chlorellestadite,"Ca,Cl,Si,O,S",4.5,4.5,0,0,"White, tinged with blue or green",Hexagonal,1982,0
+1017,Chloritoid,"Al,Fe,Si,O,H",6.5,6.5,3.4,3.8,"Dark green to green-gray or nearly black",Monoclinic,,0
+1018,Chlormagaluminite,"Al,Cl,Mg,O,H",1.5,2.5,1.98,2.09,"Colorless to yellow-brown; colorless in transmitted light",Hexagonal,1982,0
+1019,Chlormanganokalite,"Cl,Mn,K",2.5,2.5,2.31,2.31,"Champagne, lemon- to canary-yellow.",Trigonal,1906,0
+1020,Chlorocalcite,"Ca,Cl,K",2.5,3,0,0,"White, violet tinged",Orthorhombic,1872,0
+1021,Chlorolithine,"",,,0,0,,,,0
+1022,Chloromagnesite,"Cl,Mg",,,2.325,2.325,"Colourless, white",Trigonal,,0
+1024,Chocolate-stone,"",,,0,0,,,,0
+1025,Chocolite,"",,,0,0,"Chocolate",,,0
+1026,Choloalite,"Ca,Cl,Cu,Pb,Sb,Te,O",3,3,6.4,6.4,"Forest green (RHS 136A)",Isometric,1980,0
+1027,Chondrodite,"Mg,Si,O,F",6,6.5,3.16,3.26,"Yellow, Red or Brown.",Monoclinic,1817,0
+1028,Chrisstanleyite,"Ag,Pd,Se",5,5,0,0,"Silvery grey",Monoclinic,,0
+1029,Christite,"As,Hg,Tl,S",1,2,6.2,6.2,"Bright orange to deep red or crimson",Orthorhombic,1976,0
+1030,Chromatite,"Ca,Cr,O",,,0,0,"Yellow, violet",Tetragonal,1963,0
+1031,Chromium-dravite,"Cr,Mg,Na,Si,B,O,H",7,7.5,0,0,"Dark emerald-green to greenish-black.",Trigonal,1983,0
+1035,Chromferide,"Cr,Fe",4,4,0,0,"White, grey",Isometric,,0
+1036,Chromite,"Cr,Fe,O",5.5,5.5,4.5,4.8,"Black",Isometric,1845,0
+1037,Chromium,"Cr",9,9,7.17,7.17,"White",Isometric,,0
+1039,Chrysoberyl,"Al,Be,O",8.5,8.5,3.75,3.75,"Green shades, emerald-green, greenish white, yellowish green, greenish brown, yellow, canary yellow, blue",Orthorhombic,1789,0
+1040,Chrysocolla,"Al,Cu,Si,O,H",2.5,3.5,1.93,2.4,"Green, bluish green, blue, blackish blue to black, or brown and rarely yellow",Orthorhombic,315 ,0
+1041,Chrysolite (of Wallerius),"",,,0,0,,,,0
+1042,Chrysoprase Earth,"Ni,Si,O,H",,,0,0,,,,0
+1043,Chudobaite,"As,Mg,Zn,O,H",2.5,3,2.94,2.94,"Rose, white, colorless",Triclinic,1960,0
+1044,Chukhrovite-(Ce),"Al,Ca,Ce,O,F,S,H,Y",3,3,2.274,2.398,"white, with a lilac tint",Isometric,,0
+1045,Chukhrovite-(Y),"Al,Ca,Ce,O,F,S,H,Y",3,3,2.274,2.398,"White, colourless",Isometric,,0
+1047,Churchite-(Y),"O,P,H,Y",3,3,3.14,3.14,"Colorless, white, gray, yellow; colourless in transmitted light.",Monoclinic,1865,0
+1048,Chursinite,"As,Hg,O",3,3,0,0,"Yellow-brown to orange-brown",Monoclinic,1984,0
+1049,Chvaleticeite,"Mn,O,S,H",1.5,1.5,1.84,1.84,"White, pinkish, yellowish-green ",Monoclinic,1986,0
+1050,Chvilevaite,"Cu,Fe,Na,Zn,S",3,3,0,0,"Bronze",Trigonal,1988,0
+1051,Cianciulliite,"Mg,Mn,Zn,O,H",1,2,0,0,"Dark reddish-brown nearly black",Monoclinic,1991,0
+1052,Cinnabar,"Hg,S",2,2.5,8.176,8.176,"Tint or shade of red; cochineal red, brownish red, silvery dark red; silvery-grey; may darken due to formation of mercury nanoparticles (https://mineralcare.web.ox.ac.uk/article/cinnabar)",Trigonal,,0
+1053,Cirrolite,"Al,Ca,O,P,H",5,6,0,0,"Light yellow",,,0
+1055,Clinoclase,"As,Cu,O,H",2.5,3,4.38,4.38,"Blue, greenish-blue, dark green-black; blue-green in transmitted light",Monoclinic,1830,0
+1056,Clairite,"Fe,N,O,S,H",,,2.31,2.31,"Orange-Yellow",Triclinic,1982,0
+1057,Claraite,"As,Cu,Zn,O,C,S,H",,,0,0,"Turquoise blue",Triclinic,1982,0
+1058,Claringbullite,"Cl,Cu,O,F,H",,,3.9,3.9,"Blue",Hexagonal,1976,0
+1059,Clarkeite,"Ca,Na,Pb,O,H,U",4,4.5,6.29,6.39,"Dark red-brown, dark brown",Trigonal,1931,0
+1060,Claudetite,"As,O",2.5,2.5,4.14,4.15,"Colourless, white",Monoclinic,1868,0
+1061,Clausthalite,"Pb,Se",2.5,3,7.8,8.22,"Bluish grey to lead-grey",Isometric,1832,0
+1064,Cliffordite,"Te,O,U",4,4,6.57,6.57,"Bright sulfur yellow",Isometric,1969,0
+1065,Clinoatacamite,"Cl,Cu,O,H",3,3,0,0,"Green to dark greenish-black, greenish-blue.",Monoclinic,,0
+1066,Clinobehoite,"Be,O,H",2,3,1.93,1.93,"Colorless",Monoclinic,1989,0
+1067,Clinobisvanite,"Bi,O,V",,,0,0,"Yellow, orange, pale orange, deep reddish orange",Monoclinic,1974,0
+1068,Clinochalcomenite,"Cu,Se,O,H",2,2,0,0,"bluish green",Monoclinic,1980,0
+1069,Clinochevkinite,"",,,0,0,,,,0
+1070,Clinochlore,"Al,Mg,Si,O,H",2,2.5,2.6,3.02,"Green, yellowish green, olive green, blackish green, bluish green, white, pink",Monoclinic,1851,0
+1072,Clinoenstatite,"Mg,Si,O",5,6,0,0,"Colourless, greenish yellow, yellowish brown, green-brown",Monoclinic,1906,0
+1073,Clinoferrosilite,"Fe,Si,O",5,6,0,0,"Brown, colourless, green",Monoclinic,1935,0
+1074,Clinoguarinite,"Ca,Si,Na,Zr,O,F",,,0,0,,,,0
+1075,Clinohedrite,"Ca,Si,Zn,O,H",5.5,5.5,3.28,3.335,"Colorless, pale amethystine (rare)",Monoclinic,1898,0
+1077,Clinohumite,"Mg,Si,O,F",6,6,3.17,3.35,"White; yellow to brown with increasing Ti; orange; pinkish",Monoclinic,1876,0
+1078,Clinojimthompsonite,"Fe,Mg,Si,O,H",2,2.5,0,0,"Colorless to pale tan-brown",Monoclinic,1977,0
+1079,Clinokurchatovite,"Ca,Fe,Mg,Mn,B,O",4.5,4.5,3.07,3.08,"light grey",Monoclinic,1983,0
+1080,Mimetite-M,"As,Cl,Pb,O",4,4,7.36,7.36,"Pale greenish yellow, white.",Monoclinic,1991,0
+1081,Clinophosinaite,"Ca,Na,Si,Sr,O,P",4,4,2.85,2.88,"Light violet",Monoclinic,1981,0
+1083,Clinosafflorite,"As,Co",4.5,5,0,0,"Tin-white",Monoclinic,1971,0
+1084,Clinotobermorite,"Ca,Si,O,H",4.5,4.5,2.58,2.58,"Colorless to white",Monoclinic,1989,0
+1086,Clinoungemachite,"Fe,Na,O,K,S",,,0,0,"Colorless to pale yellow",Monoclinic,,0
+1087,Clinozoisite,"Al,Ca,Si,O,H",7,7,3.3,3.4,"colourless, green, grey, light green, yellow-green, pale brownish, green-brown, pink",Monoclinic,1896,0
+1088,Clintonite,"Al,Ca,Mg,Si,O,H",3.5,6,3.0,3.1,"Brown, golden brown, reddish brown, yellow green, dark green",Monoclinic,1828,0
+1090,Cobaltomelane,"",,,0,0,,,,0
+1091,Cobaltkoritnigite,"As,Co,O,H",2,3,0,0,"Pale purple to intense purple, pale rose red to intense purple-rose",Triclinic,1980,0
+1092,Cobaltomenite,"Co,Se,O,H",2,2.5,3.42,3.42,"dark red, pink-red, brownish pink, yellowish brown",Monoclinic,1882,0
+1093,Cobaltite,"As,Co,S",5.5,5.5,6.33,6.33,"Reddish silver white, violet steel gray, or black.",Orthorhombic,1797,0
+1095,Coalingite,"Fe,Mg,O,C,H",1,2,2.32,2.42,"Deep reddish brown, brown, straw-yellow; golden brown in transmitted light.",Trigonal,1965,0
+1096,Cobalt-Chrompicotite,"Al,Cr,Co,Fe,Mg,O",,,0,0,,,,0
+1097,Cobaltpentlandite,"Co,S",4,4.5,0,0,"Yellow",Isometric,1959,0
+1098,Cobaltzippeite,"Co,O,S,H,U",2,2,0,0,"Tan to brownish yellow, yellow-orange",Monoclinic,1976,0
+1099,Cobaltaustinite,"As,Ca,Co,O,H",4.5,4.5,0,0,"Dull green",Orthorhombic,,0
+1100,Coccinite,"Hg,I",2,2,0,0,"Orange-red, deep red",Tetragonal,,0
+1101,Cochromite,"Co,Cr,O",7,7,0,0,"Dark, probably black",Isometric,1978,0
+1102,Coconinoite,"Al,Fe,O,P,S,H,U",,,2.70,2.70,"Pale creamy yellow",Monoclinic,1965,0
+1103,Coeruleolactite,"",5,5,2.55,2.7,"Milk-white, light blue",Triclinic,1871,0
+1104,Coesite,"Si,O",7.5,8,0,0,"Colourless, very pale pink, very pale yellowish-white",Monoclinic,1954,0
+1106,Coffinite,"Si,O,H,U",5,6,5.1,5.1,"Black",Tetragonal,1954,0
+1107,Cohenite,"Fe,C",5.5,6,7.20,7.65,"Tin white",Orthorhombic,1889,0
+1108,Colemanite,"Ca,B,O,H",4.5,4.5,2.423,2.423,"Colourless, white, yellowish, grey; colourless in transmitted light",Monoclinic,1884,0
+1109,Collinsite,"Ca,Mg,O,P,H",3,3.5,2.99,2.99,"Light brown; light yellow-brown to colourless in transmitted light.",Triclinic,1924,0
+1110,Coloradoite,"Hg,Te",2.5,2.5,8.10,8.10,"Iron black tending toward gray",Isometric,1877,0
+1111,Colquiriite,"Al,Ca,Li,F",4,4,2.94,2.94,"White",Trigonal,1980,0
+1113,Colusite,"As,Cu,S,V",3,4,4.2,4.5,"Bronze, pinkish bronze",Isometric,1932,0
+1114,Comancheite,"Br,Cl,Hg,N,O,H",2,2,7.7,7.7,"Red (masses), orange-red  to  yellow (crystals)",Orthorhombic,1981,0
+1115,Combeite,"Ca,Na,Si,O,H",,,2.844,2.844,"Colorless",Trigonal,1957,0
+1116,Comblainite,"Co,Ni,O,C,H",2,2,3.05,3.05,"Turquoise-blue, yellow-green under a microscope",Trigonal,1980,0
+1117,Compreignacite,"O,K,H,U",,,5.03,5.03,"Yellow, orange-yellow",Orthorhombic,1964,0
+1118,Congolite,"Cl,Fe,Mg,B,O",6.5,7.5,3.58,3.58,"Pale red, pink",Trigonal,1972,0
+1119,Conichalcite,"As,Ca,Cu,O,H",4.5,4.5,4.33,4.33,"Green, yellow-green, greenish yellow; light green to yellowish green in transmitted light.",Orthorhombic,1849,0
+1120,Connellite,"Cl,Cu,O,S,H",3,3,3.36,3.36,"Blue, blue-green; blue in transmitted light.",Hexagonal,1850,0
+1121,Cookeite,"Al,Li,Si,O,H",2.5,3.5,2.58,2.69,"White, yellowish green, greenish, pink, brown, grey, rarely lilac",Monoclinic,1866,0
+1122,Coombsite,"Al,Mn,Si,O,K,H",,,3.0,3.0,"Pale brownish yellow",Trigonal,1991,0
+1123,Cooperite,"Pt,S",4,5,9.5,9.5,"Steel gray to silvery white",Tetragonal,1928,0
+1124,Copiapite,"Fe,O,S,H",2.5,3,2.08,2.17,"Crystals: sulfur-yellow to orange, massive material: greenish-yellow to olive-green.",Triclinic,1833,0
+1125,Coquandite,"Sb,O,S,H",3,4,0,0,"Colorless",Triclinic,1991,0
+1126,Coquimbite,"Al,Fe,O,S,H",2.5,2.5,2.11,2.11,"Light violet to purple, Greenish white, Bluish white, Yellowish white, Brownish white",Trigonal,1841,0
+1127,Corderoite,"Cl,Hg,S",3,3,0,0,"Light orange-pink, salmon pink brown; turns pale grey, then black on prolonged exposure to light.",Isometric,1974,0
+1128,Cordierite,"Al,Fe,Mg,Si,O",7,7.5,2.6,2.66,"Grey, blue, blue-violet, greenish, yellowish brown; colourless to very light blue in transmitted light.",Orthorhombic,1813,0
+1129,Cordylite-(Ce),"Ba,Ce,Na,O,C,F",4.5,4.5,4.31,4.31,"Colourless, yellowish; colourless to light yellow in transmitted light",Hexagonal,,0
+1130,Corkite,"Fe,Pb,O,P,S,H",3.5,4.5,4.295,4.295,"Brown to light yellowish brown, pale yellow, yellowish green to dark green",Trigonal,1869,0
+1131,Cornetite,"Cu,O,P,H",4.5,4.5,4.10,4.10,"Dark blue to green-blue; green-blue in transmitted light.",Orthorhombic,1916,0
+1132,Cornubite,"As,Cu,O,H",4,4,4.64,4.64,"Apple green, light to dark green",Triclinic,1958,0
+1133,Cornwallite,"As,Cu,O,H",4.5,4.5,4.17,4.17,"Verdigis green, blackish-green, emerald-green; emerald-green in transmitted light.",Monoclinic,1846,0
+1134,Coronadite,"Mn,Pb,O",4.5,5,5.246,5.505,"Dark gray, black",Monoclinic,1904,0
+1135,Corrensite,"Al,Fe,Mg,Si,O,H",1,2,0,0,"Dark green, Yellow green,Blackish green, Brown, Light golden brown, gray white",Orthorhombic,1954,0
+1136,Corundum,"Al,O",9,9,3.98,4.1,"Colourless, blue, red, pink, yellow, grey, golden-brown",Trigonal,,0
+1138,Corvusite,"Ca,Fe,Mg,Na,O,K,H,V",2.5,3,2.82,2.82,"Blue-black, brown",Monoclinic,1933,0
+1139,Cosalite,"Bi,Pb,S",2.5,3,6.86,6.99,"Grey",Orthorhombic,1868,0
+1140,Costibite,"Co,Sb,S",6,6,0,0,,Orthorhombic,1970,0
+1141,Cotunnite,"Cl,Pb",1.5,2,5.8,5.8,"Colourless, white, light yellow, light green",Orthorhombic,1825,0
+1142,Coulsonite,"Fe,O,V",4.5,5,5.17,5.20,"Bluish gray; light gray in reflected light",Isometric,1962,0
+1143,Cousinite,"Mg,Mo,O,H,U",,,0,0,"Black",,1958,0
+1144,Covellite,"Cu,S",1.5,2,4.6,4.76,"Indigo-blue or darker, inclining towards blue-black, often iridescent with purplish, deep red, and brassy-yellow reflections.",Hexagonal,1832,0
+1145,Cowlesite,"Al,Ca,Si,O,H",5,5.5,2.14,2.14,"Colourless, white",Orthorhombic,1975,0
+1146,Coyoteite,"Fe,Na,O,S,H",1.5,1.5,2.5,2.6,"Black to pale brownish grey",Triclinic,1983,0
+1147,Crandallite,"Al,Ca,O,P,H",5,5,2.78,3.04,"Yellow, white, gray; colorless in transmitted light.",Trigonal,1917,0
+1148,Crawfordite,"Na,Sr,O,P,C",3,3,3.05,3.05,"Colourless",Monoclinic,1994,0
+1149,Creaseyite,"Al,Cu,Fe,Pb,Si,O,H",2.5,2.5,4.1,4.1,"Pale green to yellow-green; yellow in thin section",Orthorhombic,1974,0
+1150,Crednerite,"Cu,Mn,O",4,4,4.98,5.34,"Bright gray to iron black",Monoclinic,1847,0
+1151,Creedite,"Al,Ca,O,F,S,H",4,4,2.713,2.73,"white, violet, purple, colourless, orange; colourless in transmitted light.",Monoclinic,1916,0
+1153,Crichtonite,"Cr,Fe,Mn,Sr,Ti,O,H,U,V,Y",5,6,4.46,4.46,"Black",Trigonal,1813,0
+1154,Criddleite,"Ag,Au,Sb,Tl,S",3,3.5,6.86,6.86,"Gray-blue",Monoclinic,,0
+1155,Cristobalite,"Si,O",6,7,2.32,2.36,"Colorless, white, also blue grey, brown, grey, yellow",Tetragonal,1887,0
+1156,Crocashite,"",,,0,0,,,,0
+1157,Crocoite,"Cr,Pb,O",2.5,3,5.97,6.02,"Orange, red, yellow; orange-red in transmitted light.",Monoclinic,,0
+1158,Cronstedtite,"Fe,Si,O,H",3.5,3.5,3.34,3.35,"Black, dark brown-black, green-black",Trigonal,1821,0
+1159,Crookesite,"Ag,Cu,Se,Tl",2.5,3,6.90,6.90,"Lead Grey",Tetragonal,1866,0
+1160,Crossite,"",6,6,0,0,"Blue",Monoclinic,,0
+1161,Cryolite,"Al,Na,F",3,3.5,2.96,2.98,"Colourless, white, brown, grey, black; colourless in transmitted light.",Monoclinic,1799,0
+1162,Cryolithionite,"Al,Li,Na,F",4,4,2.77,2.77,"Colourless, white",Isometric,1904,0
+1163,Cryptohalite,"Si,N,F,H",2.5,2.5,2.004,2.004,"Colourless, white, grey; colourless in transmitted light",Isometric,1873,0
+1164,Cryptomelane,"Mn,O,K",5,6.5,4.17,4.41,"Brown, grayish-white",Monoclinic,,0
+1165,Csiklovaite,"",,,0,0,,,,0
+1166,Cuproartinite,"Cu,Mg,O,C,H",,,0,0,,,,0
+1167,Cualstibite,"Al,Cu,Sb,O,H",2,2,0,0,"Blue-green",Trigonal,1984,0
+1168,Cubanite,"Cu,Fe,S",3.5,3.5,4.03,4.18,"Brass- to bronze-yellow",Orthorhombic,1843,0
+1170,Cummingtonite,"Mg,Si,O,H",5,6,3.1,3.6,"Translucent dark green, brown, grey, colourless",Monoclinic,1824,0
+1171,Cupalite,"Al,Cu,Zn",4,4.5,0,0,"Steel yellow",Orthorhombic,1985,0
+1172,Cuprite,"Cu,O",3.5,4,6.14,6.14,"Dark red to cochineal red, sometimes almost black.",Isometric,1845,0
+1177,Cuprobismutite,"Ag,Bi,Cu,S",,,6.36,6.36,"Dark bluish-grey",Monoclinic,,0
+1179,Cuprocalcite,"",,,0,0,,,,0
+1180,Cuprocassiterite,"",,,0,0,,,,0
+1181,Cuprocopiapite,"Cu,Fe,O,S,H",2.5,3,2.23,2.23,"Yellow-orange, greenish-yellow",Triclinic,1938,0
+1182,Cuprocuprite,"",,,0,0,,,,0
+1186,Cuproiridsite,"Cu,Fe,Ir,S",5.5,5.5,0,0,"Iron black",Isometric,1985,0
+1187,Cupropavonite,"Ag,Bi,Cu,Pb,S",2,2,0,0,"Lead-grey to tin-white",Monoclinic,1979,0
+1188,Cuprorhodsite,"Cu,Fe,Rh,S",5,5.5,0,0,"Iron black",Isometric,1984,0
+1189,Cuprorivaite,"Ca,Cu,Si,O",5,5,3.08,3.08,"Blue",Tetragonal,1938,0
+1191,Cuprosklodowskite,"Cu,Si,O,H,U",4,4,3.85,3.85,"Yellowish green to grass green or greenish yellow",Triclinic,1933,0
+1192,Cuprospinel,"Cu,Fe,O",6.5,6.5,0,0,"Black to grey",Isometric,,0
+1193,Cuprostibite,"Cu,Sb,Tl",4,4,0,0,"Steel grey to violet-rose on fresh fracture",Tetragonal,1969,0
+1194,Cuprotungstite,"Cu,O,H,W",4,5,5.4,6.98,"Emerald green, brown, olive-green, pistachio-green",Tetragonal,1869,0
+1195,Curetonite,"Al,Ba,Ti,O,P,F,H",3.5,3.5,4.42,4.42,"Bright green yellowish",Monoclinic,1978,0
+1196,Curienite,"Pb,O,H,U,V",3,3,4.88,4.88,"Canary-yellow",Orthorhombic,1967,0
+1197,Curite,"Pb,O,H,U",4,5,6.98,7.4,"Deep to light red-orange, orange, scarlet, yellow",Orthorhombic,1921,0
+1198,Cuspidine,"Ca,Si,O,F",5,6,2.97,2.99,"Colorless, tan, light brown, pale red.",Monoclinic,1876,0
+1199,Cuzticite,"Fe,Te,O,H",3,3,3.9,3.9,"Deep yellow, also golden brown to brown",Hexagonal,1982,0
+1200,Cyanochroite,"Cu,O,K,S,H",2,2.5,2.224,2.224,"Greenish-blue",Monoclinic,1855,0
+1201,Cyanolite,"Ca,Si,O,H",,,0,0,,,,0
+1203,Cyanotrichite,"Al,Cu,O,S,H",1,3,2.76,2.76,"Sky-blue, azure-blue",Monoclinic,1839,0
+1204,Cylindrite,"Fe,Pb,Sb,Sn,S",2.5,2.5,5.43,5.49,"Grey-black",Triclinic,1893,0
+1205,Cymrite,"Al,Ba,Si,O,H",2,3,3.413,3.413,"Colourless, green, brown",Monoclinic,1949,0
+1206,Cyrilovite,"Fe,Na,O,P,H",4,4,3.081,3.096,"Bright yellow, honey-yellow, orange to brownish yellow, brown",Tetragonal,1953,0
+1207,Chaoite,"C",1,2,0,0,"Black",Hexagonal,,0
+1208,Chengdeite,"Fe,Ir",5,5,0,0,"Steel-black",Isometric,,0
+1209,Copper,"Cu",2.5,3,8.94,8.95,"Copper-red. Tarnishes to black or green in air.",Isometric,,0
+1210,Černýite,"Cd,Cu,Fe,Sn,Zn,S",4,4,,0,"Steel Grey",Tetragonal,,0
+1211,D'Ansite,"Cl,Mg,Na,O,S",2.5,3,2.63,2.655,"Colorless, yellow, pale brown",Isometric,,0
+1213,Dadsonite,"Cl,Pb,Sb,S",2.5,2.5,5.68,5.68,"Lead grey",Triclinic,1968,0
+1214,Dalyite,"Si,Zr,O,K",7.5,7.5,2.82,2.82,"Colourless, brown",Triclinic,,0
+1215,Damaraite,"Cl,Pb,O,H",3,3,0,0,"Colourless",Orthorhombic,1990,0
+1217,Danbaite,"Cu,Zn",4,4,0,0,"Silvery white to grayish white",Isometric,1983,0
+1218,Danburite,"Ca,Si,B,O",7,7.5,2.93,3.02,"Pale yellow, yellowish-brown, colourless",Orthorhombic,1837,0
+1219,Danielsite,"Ag,Cu,Hg,S",1.5,2,0,0,"Grey",Orthorhombic,1987,0
+1222,Daomanite,"As,Cu,Pt,S",3.5,3.5,0,0,"Steel gray with yellow tint",Orthorhombic,1974,0
+1224,Daqingshanite-(Ce),"Ba,Ca,Ce,La,Sr,O,P,C,F,H",4.5,4.5,3.81,3.81,"Pale yellow",Trigonal,,0
+1225,Darapiosite,"Li,Mn,Na,Si,Zn,O,K",5,5,2.92,2.92,"Colourless, white, brownish, bluish, pale violet",Hexagonal,1975,0
+1226,Darapskite,"Na,N,O,S,H",2.5,2.5,2.201,2.201,"Colourless",Monoclinic,1891,0
+1229,Daubréeite,"Bi,O,H",2,2.5,6.4,6.5,"Creamy-white, greyish, yellowish-brown; colourless in transmitted light.",Tetragonal,1876,0
+1230,Daubréelite,"Cr,Fe,S",4.5,5,3.81,3.81,"Black",Isometric,,0
+1231,Davanite,"Si,Ti,O,K",5,5,2.76,2.76,"Colourless",Triclinic,1984,0
+1233,Davidite-(Ce),"Ce,Cr,Fe,Ti,O,F,H,U,V,Y",6,6,4.29,4.29,"Black; shiny black",Trigonal,,0
+1234,Davidite-(La),"Cr,Fe,La,Ti,O,F,H,U,V,Y",6,6,4.33,4.48,"Black",Trigonal,,0
+1235,Davidite-(Y),"Ca,Ce,Fe,La,Mn,Na,Nb,Pb,Ti,Zr,O,Y",,,,,,Trigonal,,0
+1236,Davisonite,"",,,0,0,,,,0
+1237,Davreuxite,"Al,Mn,Si,O,H",2,3,3.30,3.38,"Creamy-white, pale rose pink",Monoclinic,1878,0
+1238,Davyne,"Al,Ca,Cl,Na,Si,O,K,S",5.5,6,2.42,2.53,"Colourless, white",Hexagonal,1825,0
+1239,Davyno-cavolinite,"",,,0,0,,,,0
+1240,Dawsonite,"Al,Na,O,C,H",3,3,2.436,2.436,"Colourless to white; rarely pink; colourless in transmitted light",Orthorhombic,1874,0
+1242,Deanesmithite,"Cr,Hg,O,S",4.5,5,0,0,"Red, orange",Triclinic,,0
+1244,Deeckeite,"Al,Ca,Fe,Mg,Na,Si,O,K,H",,,0,0,,,,0
+1245,Deerite,"Fe,Si,O,H",6,6,3.837,3.837,"Black",Monoclinic,1964,0
+1246,Defernite,"Ca,Cl,Si,O,C,H",3,3,2.34,2.5,"Colourless (original occurrence), also deep red, rose-brown",Orthorhombic,1978,0
+1248,Delafossite,"Cu,Fe,O",5.5,5.5,5.41,5.41,"Black, brown-white in reflected light",Trigonal,1873,0
+1250,Delessite,"Al,Fe,Mg,Si,O,H",,,0,0,,,,0
+1251,Delhayelite,"Al,Ca,Cl,Na,Si,O,K,F,S,H",,,2.60,2.60,"Colourless; Silver-grey, Greenish-grey",Orthorhombic,1959,0
+1252,Delindeite,"Al,Ba,Ca,Fe,Na,Si,Ti,O,K,H",,,3.3,3.3,"Light pinkish-grey",Monoclinic,1987,0
+1253,Dellaite,"Ca,Si,O,H",,,0,0,,Triclinic,1965,0
+1254,Deloryite,"Cu,Mo,O,H,U",4,4,4.9,4.9,"Dark green to black",Monoclinic,1992,0
+1255,Delrioite,"Ca,Sr,O,H,V",2,2,3.1,3.1,"Pale yellow-green",Monoclinic,1959,0
+1256,Deltaite,"",,,0,0,"Gray to lavender (lilac) and light blue, canary-yellow; colourless in transmitted light.",,,0
+1257,Delvauxite,"Ca,Fe,O,P,S,H",2.5,2.5,1.85,1.85,"Yellowish brown, brownish black, reddish, chestnut-brown",Amorphous,1838,0
+1259,Demesmaekerite,"Cu,Pb,Se,O,H,U",3,4,5.28,5.28,"Bottle-green when fresh, turning somewhat brownish on dehydration",Triclinic,1965,0
+1260,Denhardtite,"",,,0,0,,,,0
+1261,Denisovite,"Ca,Fe,Mn,Na,Si,O,K,F,H",4,5,2.76,2.76,"Gray with greenish tint",Monoclinic,1984,0
+1262,Denningite,"Ca,Mn,Te,Zn,O",4,4,5.05,5.05,"Pale green, colorless, pale grey, usually with thin brown coating",Tetragonal,1961,0
+1263,Derbylite,"Fe,Sb,Ti,O,H",5,5,4.53,4.62,"Pitch-black, dark brown (when translucent)",Monoclinic,1895,0
+1264,Derriksite,"Cu,Se,O,H,U",,,0,0,"Dark green to bottle-green, clear green",Orthorhombic,,0
+1265,Dervillite,"Ag,As,S",1,1.5,0,0,"Grey",Monoclinic,1941,0
+1266,Desautelsite,"Mg,Mn,O,C,H",2,2,2.13,2.13,"Bright orange",Trigonal,1978,0
+1267,Descloizite,"Pb,Zn,O,H,V",3,3.5,6.2,6.2,"Brownish red, red-orange, reddish brown to blackish brown, nearly black",Orthorhombic,1854,0
+1268,Desert Rose,"",,,0,0,,,,0
+1269,Despujolsite,"Ca,Mn,O,S,H",2.5,2.5,2.46,2.46,"Pale yellow to deep yellow-green",Hexagonal,1968,0
+1270,Devilline,"Ca,Cu,O,S,H",2.5,2.5,3.084,3.084,"Green, bluish-green; green in transmitted light.",Monoclinic,1864,0
+1271,Devitrite,"Ca,Na,Si,O",,,0,0,,,,0
+1272,Deweylite,"Mg,Si,O,H",,,0,0,,,,0
+1273,Dewindtite,"Pb,O,P,H,U",,,5.03,5.03,"Canary-yellow",Orthorhombic,1922,0
+1276,Diaboleite,"Cl,Cu,Pb,O,H",2.5,2.5,5.41,5.43,"Blue",Tetragonal,1923,0
+1278,Diaclasite,"Si,Fe,Mg,O,H",,,0,0,,,,0
+1279,Diadochite,"Fe,O,P,S,H",3,4,2.0,2.4,"Yellow to greenish-yellow or brown, reddish brown, light green, light yellow; pale yellow to yellowish brown in transmitted light.",Amorphous,1837,0
+1280,Dialite,"",,,0,0,,,,0
+1282,Diamond,"C",10,10,3.5,3.53,"Colourless, yellowish to yellow, brown, black, blue, green or red, pink, champagne-tan, cognac-brown, lilac (very rare)",Isometric,,0
+1283,Diaoyudaoite,"Al,Na,O",7.5,8,3.30,3.30,"Colourless, light green",Hexagonal,1985,0
+1284,Diaphorite,"Ag,Pb,Sb,S",2.5,3,6.04,6.04,"Steel grey to black",Monoclinic,1871,0
+1285,Diaspore,"Al,O,H",6.5,7,3.2,3.5,"White, brown, colourless, pale yellow, greyish, greenish grey, lilac, pinkish, rose-red, dark red",Orthorhombic,1801,0
+1286,Dickinsonite-(KMnNa),"Al,Ca,Mn,Na,O,P,K,H",3.5,4,3.38,3.41,"Green shades to dark green, yellowish green, brownish green; green in transmitted light.",Monoclinic,1878,0
+1287,Dickite,"Al,Si,O,H",2,2.5,2.60,2.60,"White, or tinted by impurities",Monoclinic,1930,0
+1288,Dienerite,"As,Ni",,,0,0,"White with tinge of gray",Isometric,1926,0
+1289,Dietrichite,"Al,Fe,Mn,Zn,O,S,H",2,2,0,0,"White, Brownish-yellow; Off-white; colourless in transmitted light.",Monoclinic,1878,0
+1290,Dietzeite,"Ca,Cr,O,H,I",3.5,3.5,3.617,3.698,"Golden yellow",Monoclinic,1894,0
+1291,Digenite,"Cu,S",2.5,3,5.546,5.546,"Grey to greyish black, turning bluish on exposure to air",Trigonal,1844,0
+1292,Dimorphite,"As,S",1.5,1.5,3.58,3.58,"Orange-yellow",Orthorhombic,,0
+1294,Diopside,"Ca,Mg,Si,O",5.5,6.5,3.22,3.38,"Light to dark green, blue, brown, colourless, snow white, grey, pale violet",Monoclinic,1800,0
+1295,Dioptase,"Cu,Si,O,H",5,5,3.28,3.35,"Emerald Green, blue-green",Trigonal,1797,0
+1296,Dissakisite-(Ce),"Al,Ca,Ce,Mg,Si,O,H",6.5,7,3.75,3.75,"Pale yellow-brown in thin section.",Monoclinic,,0
+1297,Dittmarite,"Mg,N,O,P,H",5,5,2.15,2.15,"Colourless",Orthorhombic,1887,0
+1298,Dixenite,"As,Cu,Fe,Mn,Si,O,H",3,4,4.35,4.35,"Deep red-brown to nearly black",Trigonal,1920,0
+1299,Djerfisherite,"Cl,Cu,Fe,Ni,K,S",3.5,3.5,0,0,"Greenish yellow, khaki, to olive drab",Isometric,1966,0
+1300,Djurleite,"Cu,S",2.5,3,0,0,"Black, gray in reflected light",Monoclinic,1962,0
+1301,Dmisteinbergite,"Al,Ca,Si,O",6,6,2.73,2.73,"Colourless",Trigonal,1989,0
+1302,Dolerophanite,"Cu,O,S",3,3,4.17,4.17,"Dark brown, nearly black; yellow-brown in transmitted light.",Monoclinic,1873,0
+1303,Dollaseite-(Ce),"Al,Ca,Ce,Mg,Si,O,F,H",6.5,7,3.90,3.90,"Brown",Monoclinic,,0
+1304,Dolomite,"Ca,Mg,O,C",3.5,4,2.84,2.86,"Colourless, white, gray, reddish-white, brownish-white, or pink; colourless in transmitted light",Trigonal,1791,0
+1305,Doloresite,"O,H,V",,,3.27,3.33,"Nearly black with dark bronzy tarnish.  Very fine fragments under oil immersion are reddish brown to yellow red in transmitted light.",Monoclinic,1957,0
+1306,Domeykite,"As,Cu",3,3.5,7.2,7.9,"Tin-white, steel-grey",Isometric,1845,0
+1307,Donathite,"",,,,,,,,0
+1308,Donharrisite,"Hg,Ni,S",2,2,0,0,"Brown",Monoclinic,1987,0
+1309,Donnayite-(Y),"Ca,Na,Sr,O,C,H,Y",3,3,3.30,3.30,"pale yellow to yellow, colorless, white, grey, brown to reddish brown",Triclinic,1973,0
+1310,Donpeacorite,"Mg,Mn,Si,O",5,6,3.36,3.36,"Pale buff, yellow-orange; faint pink in thin section.",Orthorhombic,1984,0
+1311,Dorallcharite,"Fe,Tl,O,S,H",3,4,0,0,"Golden yellow",Trigonal,1994,0
+1312,Dorfmanite,"Na,O,P,H",1,1.5,1.98,2.00,"White",Orthorhombic,1979,0
+1313,Dorrite,"Al,Ca,Fe,Mg,Si,O",5.5,5.5,0,0,"red-brown, brown-black, dark brown",Triclinic,1987,0
+1314,Douglasite,"Cl,Fe,O,K,H",,,2.16,2.16,"Light green; brownish red on exposure.",Monoclinic,1880,0
+1315,Downeyite,"Se,O",,,0,0,"Colourless (red - included selenium, yellow - included sulfur)",Tetragonal,1971,0
+1316,Doyleite,"Al,O,H",2.5,3,2.48,2.48,"White, creamy-white, bluish-white",Triclinic,1985,0
+1317,Dozyite,"Al,Mg,Si,O,H",2.5,2.5,2.66,2.66,"Colourless, violet",Monoclinic,1995,0
+1318,Dravite,"Al,Mg,Na,Si,B,O,H",7,7,3.03,3.18,"Pale brown to dark-brown to brownish-black, also dark-yellow, blue.",Trigonal,1883,0
+1319,Dresserite,"Al,Ba,O,C,H",2.5,3,2.96,2.96,"White",Orthorhombic,1968,0
+1320,Dreyerite,"Bi,O,V",2,3,0,0,"Orange-yellow, brownish-yellow",Tetragonal,,0
+1321,Drugmanite,"Fe,Pb,O,P,H",5,6,0,0,"Pale yellow",Monoclinic,1979,0
+1322,Drysdallite,"Mo,Se",2,2,0,0,"Grayish black with a brown tint",Hexagonal,1973,0
+1323,Dufrénite,"Ca,Fe,O,P,H",3.5,4.5,3.1,3.34,"Dark green, olive-green, olive-brown, black; olive-brown to reddish brown with oxidation; bluish green to reddish brown or yellow in transmitted light.",Monoclinic,1833,0
+1324,Dufrénoysite,"As,Pb,S",3,3,5.50,5.57,"Dark lead-grey; dark red-brown (transmitted light)",Monoclinic,,0
+1325,Duftite,"As,Cu,Pb,O,H",4.5,4.5,6.12,6.12,"Olive-green, grey-green",Orthorhombic,1920,0
+1326,Dugganite,"As,Pb,Te,Zn,O",3,3,6.33,6.33,"White, green",Trigonal,1978,0
+1328,Dumontite,"Pb,O,P,H,U",,,5.65,5.65,"Golden yellow to ocher yellow",Monoclinic,1924,0
+1329,Dumortierite,"Al,Si,B,O",7,8,3.21,3.41,"Blue, greenish-blue, violet-blue, pale blue, pink, red",Orthorhombic,1879,0
+1330,Dundasite,"Al,Pb,O,C,H",2,2,3.1,3.55,"White to colourless to very pale blue; rarely pale greenish or pale yellowish",Orthorhombic,1893,0
+1331,Dunhamite,"Pb,Te,O",,,0,0,,,,0
+1332,Durangite,"Al,As,Na,O,F",5.5,5.5,3.94,4.07,"Light to dark orange-red, red; green; orange-yellow in artificial light.",Monoclinic,1869,0
+1333,Duranusite,"As,S",2,2.5,0,0,"Grey black, translucent dark red in very tiny splinters",Orthorhombic,1973,0
+1334,Dussertite,"As,Ba,Fe,O,H",3.5,3.5,3.75,3.75,"Green, yellow-green, bluish green; yellowish green in transmitted light.",Trigonal,1925,0
+1335,Duttonite,"O,H,V",2.5,2.5,0,0,"Pale brown",Monoclinic,1956,0
+1336,Dwornikite,"Ni,O,S,H",2,3,0,0,"White, faint greenish tint (perhaps from impurities)",Monoclinic,1981,0
+1337,Dynamite,"",,,0,0,,,,0
+1338,Dypingite,"Mg,O,C,H",,,0,0,"White, pale pink",Monoclinic,1961,0
+1339,Dzhalindite,"In,O,H",,,4.38,4.38,"Yellow-brown, orange, colorless",Isometric,1963,0
+1340,Datolite,"Ca,Si,B,O,H",5,5.5,2.96,3.00,"White, greyish, pale green, red, yellow, pink, etc.",Monoclinic,1805,0
+1341,Danalite,"Be,Fe,Si,O,S",5.5,6,3.28,3.46,"Pink, grey, yellow, reddish brown, red",Isometric,1866,0
+1342,Dyscrasite,"Ag,Sb",3.5,4,9.712,9.712,"Silver White",Orthorhombic,1797,0
+1343,Eakerite,"Al,Ca,Si,Sn,O,H",5.5,5.5,2.93,2.93,"Colourless, white",Monoclinic,1966,0
+1344,Earlandite,"Ca,O,C,H",,,1.80,1.95,"White, pale yellow",Monoclinic,1936,0
+1345,Earlshannonite,"Fe,Mn,O,P,H",3,4,2.90,2.90,"Dark reddish brown, yellowish brown, yellow-orange, bright yellow",Monoclinic,1983,0
+1346,Ecandrewsite,"Ti,Zn,O",5,5,0,0,"Dark brown, black",Trigonal,1978,0
+1348,Eckermannite,"Al,Mg,Na,Si,O,H",5,6,0,0,,Monoclinic,1942,0
+1349,Eclarite,"Bi,Cu,Fe,Pb,S",2.5,3.5,6.75,6.88,"Whitish-grey",Orthorhombic,1982,0
+1350,Edenharterite,"As,Pb,Tl,S",2.5,3,0,0,"Brownish-black",Orthorhombic,1992,0
+1351,Edenite,"Al,Ca,Mg,Na,Si,O,H",5,6,3.05,3.37,"White, grey, pale to dark green, also brown and pale pinkish-brown",Monoclinic,1839,0
+1352,Edgarbaileyite,"Hg,Si,O",4,4,9.4,9.4,"Freshly exposed material is lemon-yellow to orangish yellow; exposed surfaces range from dark olive-green to a lighter yellowish green to dark green-brown",Monoclinic,1963,0
+1353,Edingtonite,"Al,Ba,Si,O,H",4,5,2.694,2.71,"Colorless to white",Orthorhombic,,0
+1354,Edoylerite,"Cr,Hg,O,S",,,0,0,"Canary yellow to orangish yellow",Monoclinic,1987,0
+1355,Efremovite,"Mg,N,O,S,H",2,2,0,0,"Gray, white",Isometric,1989,0
+1356,Eggletonite,"Al,Ca,Fe,Mn,Na,Si,O,K,H",3,4,2.76,2.76,"Dark to golden brown, red-brown",Monoclinic,1977,0
+1357,Eglestonite,"Cl,Hg,O,H",2.5,2.5,8.33,8.45,"Yellow, orange-yellow, brown; turns dark brownish, then black, on exposure to light; yellow-brown to brown (transmitted light)",Isometric,1903,0
+1358,Ehrleite,"Be,Ca,Zn,O,P,H",3.5,3.5,2.64,2.64,"Colorless, White",Triclinic,1983,0
+1359,Eifelite,"Mg,Na,Si,O,K",5,6,0,0,"Colorless to faintly yellow or green",Hexagonal,1980,0
+1360,Eitelite,"Mg,Na,O,C",3.5,3.5,2.737,2.737,"Colorless",Trigonal,1954,0
+1361,Ekanite,"Ca,Si,Th,O",4.5,4.5,2.95,3.28,"Green in various shades, straw-yellow, dark red, colourless",Tetragonal,1953,0
+1362,Ekaterinite,"Ca,Cl,B,O,H",1,1.5,2.440,2.440,"white, white with slight rose tint",Hexagonal,1980,0
+1363,Ecdemite,"As,Cl,Pb,O",2.5,3,7.14,7.14,"Greenish-yellow, yellow",Monoclinic,1877,0
+1364,Elbaite,"Al,Li,Na,Si,B,O,H",7.5,7.5,2.9,3.1,"Green, blue-green, blue, red to pink, orange, yellow, colourless",Trigonal,1913,0
+1366,Ellenbergerite,"Al,Mg,Si,Ti,Zr,O,H",6.5,6.5,3.15,3.22,"Purple to lilac; some individuals exhibit smoky or pink cores.",Hexagonal,1984,0
+1368,Ellisite,"As,Tl,S",2,2,7.10,7.10,"Dark gray",Trigonal,1979,0
+1369,Elpasolite,"Al,Na,K,F",2.5,2.5,2.995,2.995,"Colourless",Isometric,,0
+1370,Elpidite,"Na,Si,Zr,O,H",5,5,2.52,2.62,"Colorless, white, gray, yellowish, orange, brown, beige",Orthorhombic,1894,0
+1371,Elyite,"Cu,Pb,O,S,H",2,2,6,6,"Purple",Monoclinic,1971,0
+1373,Embreyite,"Cr,Pb,O,P,H",3.5,3.5,6.45,6.45,"Dull orange",Monoclinic,1963,0
+1374,Emeleusite,"Fe,Li,Na,Si,O",5,6,2.76,2.76,"Colorless to creamy pinkish",Orthorhombic,1978,0
+1377,Emmonsite,"Fe,Te,O,H",5,5,4.52,4.55,"Yellowish-green; light yellow-green in transmitted light.",Triclinic,1885,0
+1378,Emplectite,"Bi,Cu,S",2,2,6.38,6.38,"Greyish to tin-white",Orthorhombic,1817,0
+1379,Empressite,"Ag,Te",3,3.5,7.61,7.61,"light bronze",Orthorhombic,1914,0
+1380,Enargite,"As,Cu,S",3,3,4.4,4.5,"Greyish-black to black, grey/rose-brown in reflected light.",Orthorhombic,1850,0
+1383,Englishite,"Al,Ca,Na,O,P,K,H",3,3,2.65,2.68,"Colourless to white, grayish green; colourless in transmitted light.",Monoclinic,1930,0
+1384,Enstatite,"Mg,Si,O",5,6,3.2,3.9,"White, yellowish green, brown, greenish white or grey, olive-green",Orthorhombic,1855,0
+1385,Enysite,"",,,0,0,,,1876,0
+1386,Eosphorite,"Al,Mn,O,P,H",5,5,3.06,3.08,"Usually pale brown, golden brown, also medium brown to dark brown; occasionally pink, rose-red",Orthorhombic,1878,0
+1387,Ephesite,"Al,Li,Na,Si,O,H",3.5,4.5,2.984,2.984,"Translucent pink",Triclinic,1851,0
+1388,Epididymite,"Be,Na,Si,O,H",5.5,5.5,2.548,2.548,"Colourless to white, rarely pink",Orthorhombic,1893,0
+1389,Epidote,"Al,Ca,Fe,Si,O,H",6,6,3.38,3.49,"Yellowish-green, green, brownish-green, black",Monoclinic,1801,0
+1390,Epigenite,"",,,0,0,,,,0
+1391,Epistilbite,"Al,Ca,Si,O,H",4,4,2.22,2.28,"Colorless, white, pinkish, yellowish",Monoclinic,1826,0
+1392,Epistolite,"Na,Nb,Si,Ti,O,H",2.5,3,2.65,2.89,"White, yellowish grey, pinkish beige, tan, silver on {001}",Triclinic,1897,0
+1393,Epsomite,"Mg,O,S,H",2,2.5,1.675,1.679,"White, grey, colourless, or pink, greenish; colourless in transmitted light.",Orthorhombic,1806,0
+1394,Erdite,"Fe,Na,O,S,H",2,2,2.30,2.30,"Copper-red",Monoclinic,1980,0
+1396,Ericaite,"Cl,Fe,B,O",7,7.5,3.17,3.27,"Green, red, purple, brown, black",Orthorhombic,1950,0
+1397,Ericssonite,"Ba,Fe,Mn,Si,O,H",4.5,4.5,4.21,4.21,"Deep reddish black",Monoclinic,1966,0
+1398,Eriochalcite,"Cl,Cu,O,H",2.5,2.5,2.47,2.47,"Bluish green, greenish blue, yellowish tint at times.",Orthorhombic,1870,0
+1400,Erlianite,"Fe,Mg,Si,O,H,V",3.5,3.5,3.11,3.11,"Black",Orthorhombic,1986,0
+1401,Erlichmanite,"Os,S",4.5,5.5,8.28,8.28,"Gray",Isometric,1971,0
+1402,Ernienickelite,"Mn,Ni,O,H",2,2,3.84,3.84,"Black, red-brown cast.",Trigonal,,0
+1403,Erniggliite,"As,Sn,Tl,S",2,3,0,0,"Steel gray to black-gray",Trigonal,1992,0
+1404,Ernstite,"Al,Fe,Mn,O,P,H",3,3.5,3.07,3.07,"Yellow-brown",Monoclinic,1970,0
+1405,Ershovite,"Fe,Mn,Na,Si,Ti,O,K,H",2,3,2.75,2.75,"Olive-green with brownish or yellowish shades",Triclinic,,0
+1406,Ertixiite,"Na,Si,O",5.5,6.5,2.35,2.35,"White, colorless",Isometric,1979,0
+1407,Erythrite,"As,Co,O,H",1.5,2.5,3.06,3.06,"Crimson to peach red, pale rose, pink",Monoclinic,,0
+1408,Erythrosiderite,"Cl,Fe,O,K,H",,,2.372,2.372,"Ruby-red to red, brownish red; brown-red or yellowish in transmitted light.",Orthorhombic,1872,0
+1409,Eskebornite,"Cu,Fe,Se",3,3.5,5.35,5.35,"Brass yellow",Tetragonal,,0
+1410,Eskimoite,"Ag,Bi,Pb,S",4,4,0,0,,Monoclinic,1977,0
+1411,Eskolaite,"Cr,O",8,8.5,5.18,5.18,"Black to dark green.",Trigonal,1958,0
+1412,Esperite,"Ca,Pb,Si,Zn,O",5,5,4.28,4.42,"White, off-white, pale tan",Monoclinic,1928,0
+1413,Esseneite,"Al,Ca,Fe,Si,O",6,6,0,0,"Red-brown",Monoclinic,1987,0
+1414,Ettringite,"Al,Ca,O,S,H",2,2.5,1.77,1.77,"Colourless; colourless in transmitted light.",Trigonal,1874,0
+1415,Eucairite,"Ag,Cu,Se",2.5,2.5,7.6,7.8,"Brilliant creamy white",Orthorhombic,1818,0
+1416,Euchlorine,"Cu,Na,O,K,S",,,3.27,3.27,"Emerald-green; emerald-green in transmitted light.",Monoclinic,,0
+1417,Euchroite,"As,Cu,O,H",3.5,4,3.44,3.44,"Bright emerald-green, leek-green; bright bluish green in transmitted light.",Orthorhombic,1823,0
+1418,Euclase,"Al,Be,Si,O,H",7.5,7.5,2.99,3.1,"Colorless, white, pale green to deep yellowish green, greenish blue, pale blue to deep blue, pink",Monoclinic,1792,0
+1419,Eucryptite,"Al,Li,Si,O",6.5,6.5,2.657,2.666,"Colorless, white, pale tan, pale gray",Trigonal,1880,0
+1420,Eudialyte,"Ca,Cl,Fe,Na,Si,Zr,O,H",5,6,2.74,3.1,"Variable:  Carmine-red, orange-red, orange, pink, cherry-red, brownish-red, yellowish-brown, brown, yellow, violet, green",Trigonal,1819,0
+1421,Eudidymite,"Be,Na,Si,O,H",6,6,2.55,2.55,"White, colorless",Monoclinic,1887,0
+1422,Eugenite,"Ag,Hg",2.5,3,10.75,10.75,"Black, silver, bronze",Isometric,1986,0
+1423,Eugsterite,"Ca,Na,O,S,H",1,2,0,0,"Colorless",Monoclinic,1981,0
+1424,Eulytine,"Bi,Si,O",4.5,4.5,6.1,6.6,"Orange, orange brown to red brown, bright lime green, colorless",Isometric,1827,0
+1425,Euxenite-(Y),"Ca,Ce,Nb,Ta,Th,Ti,O,U,Y",5.5,6.5,5.3,5.9,"Black, greenish or brownish tint at times",Orthorhombic,,0
+1426,Evansite,"Al,O,P,H",3.5,4,1.8,2.2,"Colourless, milk-white, lightly tinted blue, green or yellow at times; brown, reddish-brown, or red due to FeO inclusions; colourless to brown in transmitted light",Amorphous,1864,0
+1427,Eveite,"As,Mn,O,H",3.5,4,3.67,3.67,"Apple-green, pale yellow",Orthorhombic,1966,0
+1428,Evenkite,"C,H",1,1,0,0,,Orthorhombic,1953,0
+1429,Ewaldite,"Ba,Ca,Ce,Na,O,C,K,H,Y",,,3.25,5,"Bluish green, pale greenish gray",Hexagonal,,0
+1430,Eylettersite,"Al,Th,O,P,H",3,4,3.34,3.38,"Cream white",Trigonal,1972,0
+1431,Ezcurrite,"Na,B,O,H",3,3.5,2.053,2.053,"Colorless",Triclinic,1957,0
+1432,Eztlite,"Cl,Fe,Pb,Te,O,S",3,3,4.5,4.5,"Brilliant red",Monoclinic,1982,0
+1433,Fabianite,"Ca,B,O,H",6,6,2.77,2.77,"Colourless",Monoclinic,1962,0
+1434,Fadererz,"",,,0,0,,,,0
+1435,Faheyite,"Be,Fe,Mn,O,P,H",3,3,2.66,2.66,"White, bluish-white, brownish-white",Trigonal,1952,0
+1436,Fahleite,"As,Ca,Fe,Zn,O,H",2,2,0,0,"Yellow, grey, bright-green",Orthorhombic,1982,0
+1438,Fahlunite,"Al,Fe,Mg,Si,O,H",,,0,0,,,,0
+1439,Fairbankite,"Pb,Te,O,S",2,2,0,0,"Colorless",Triclinic,1979,0
+1440,Fairbanksite,"",,,0,0,,,,0
+1442,Fairchildite,"Ca,O,C,K",2.5,2.5,0,0,"Colorless, light gray to bluish gray",Hexagonal,1946,0
+1443,Fairfieldite,"Ca,Mn,O,P,H",3.5,3.5,3.08,3.11,"White, greenish white, light amber, salmon-yellow; colourless in transmitted light.",Triclinic,1879,0
+1444,Falcondoite,"Mg,Ni,Si,O,H",2,3,1.9,1.9,"whitish-green",Orthorhombic,,0
+1446,Falkmanite,"Pb,Sb,S",2,3,6.24,6.24,"Gray-black to lead black",Monoclinic,,0
+1448,False Emerald,"",,,0,0,,,,0
+1449,False Sapphire,"",,,0,0,,,,0
+1450,False Topaz,"",,,0,0,,,,0
+1451,Famatinite,"Cu,Sb,S",3,4,4.635,4.635,"Deep pinkish brown",Tetragonal,1873,0
+1452,Fangite,"As,Tl,S",2,2.5,0,0,"Deep red to maroon.",Orthorhombic,1992,0
+1453,Faratsihite,"",,,0,0,,,,0
+1456,Farringtonite,"Mg,O,P",,,2.74,2.74,"Colorless, white, pale yellow to amber yellow",Monoclinic,1961,0
+1458,Fayalite,"Fe,Si,O",7,7,4.39,4.39,"Greenish-yellow, yellow or brown",Orthorhombic,1840,0
+1459,Axinite-(Fe),"Al,Ca,Fe,Si,B,O,H",6.5,7,3.25,3.28,"Brown, clove-brown, plum blue, pearl gray",Triclinic,,0
+1460,Ferro-ferri-tschermakite,"Al,Ca,Fe,Si,O,H",5,6,0,0,"greenish black",Monoclinic,,0
+1461,Ferro-ferri-barroisite,"Al,Ca,Fe,Na,Si,O,H",,,0,0,,,,0
+1463,Clinofergusonite-(Y),"Nb,O,Y",5.5,6.5,5.65,5.65,"Pale yellow",Monoclinic,,0
+1464,Ferro-anthophyllite,"Fe,Si,O,H",5.5,6,3.24,0,"Clove-brown to dark brown, grey to white, pale green.",Orthorhombic,,0
+1465,Ferro-eckermannite,"Al,Fe,Na,Si,O,H",,,0,0,,Monoclinic,,0
+1466,Clinofergusonite-(Nd),"Ce,Nb,Nd,O",5.5,6.5,6.45,6.45,"Red, brownish red, yellowish brown",Monoclinic,,0
+1467,Fedorite,"Ca,Na,Si,O,K,F,H",,,2.43,2.58,"White, colorless, bright red, raspberry red",Triclinic,1965,0
+1468,Fedorovskite,"Ca,Mg,B,O,H",4.5,4.5,2.65,2.65,"Brown",Orthorhombic,,0
+1469,Fedotovite,"Cu,O,K,S",2.5,2.5,3.205,3.205,"Emerald green to grass green",Monoclinic,1986,0
+1471,Ferro-ferri-winchite,"Al,Ca,Fe,Na,Si,O,H",,,0,0,,,,0
+1472,Ferro-edenite,"Al,Ca,Fe,Na,Si,O,H",5,6,0,0,"Black, dark green",Monoclinic,,0
+1473,Feitknechtite,"Mn,O,H",,,,0,"Lead-gray, brownish black",Trigonal,1965,0
+1474,Felsőbányaite,"Al,O,S,H",1.5,1.5,2.33,2.33,"Colourless, yellow, white; colourless in transmitted light.",Monoclinic,,0
+1475,Fenaksite,"Fe,Mn,Na,Si,O,K,F,H",5,5.5,2.744,2.744,"Light rose",Triclinic,1959,0
+1476,Ferberite,"Fe,O,W",4,4.5,7.58,7.58,"Black; dark brown in transmitted light",Monoclinic,1863,0
+1477,Ferchromide,"Cr,Fe",6.5,6.5,0,0,"Light gray",Isometric,1986,0
+1478,Fergusonite-(Ce),"Ce,Nb,O,H",5.5,6.5,5.48,5.48,"Dark red to black",Tetragonal,,0
+1479,Fergusonite-(Nd),"Nb,Nd,O",5.5,6.5,0,0,,,,0
+1480,Fergusonite-(Y),"Nb,O,Y",5.5,6.5,5.6,5.8,"Grey, yellow, brown",Tetragonal,,0
+1481,Clinofergusonite-(Ce),"Ce,Nb,O",5.5,6.5,5.34,5.34,"red, reddish brown",Monoclinic,,0
+1482,Johnbaumite-M,"As,Ca,O,H",5,5,3.518,3.518,"White to light pink",Monoclinic,1910,0
+1483,Fernandinite,"Ca,Fe,O,K,H,V",2,3,2.78,2.78,"Dull green; light green, dark olive-green, brownish green in transmitted light",Monoclinic,1915,0
+1484,Feroxyhyte,"Fe,O,H",,,0,0,"Yellow-brown, brown",Hexagonal,1975,0
+1485,Ferrarisite,"As,Ca,O,H",,,2.63,2.63,"Colorless to white",Triclinic,1980,0
+1487,Ferri-barroisite,"Al,Ca,Fe,Mg,Na,Si,O,H",5,6,0,0,,,,0
+1488,Ferro-ferri-taramite,"Al,Ca,Fe,Na,Si,O,H",5,6,0,0,,,,0
+1489,Ferri-winchite (of Leake 1978),"",,,0,0,,,,0
+1490,Ferricopiapite,"Fe,O,S,H",2.5,3,2.14,2.14,"Yellow, yellow-orange",Triclinic,1938,0
+1493,Ferrihydrite,"Fe,O,H",,,3.96,3.96,"Dark brown, yellow-brown",Trigonal,1971,0
+1494,Ferro-ferri-katophorite,"Al,Ca,Fe,Na,Si,O,H",6,,3.32,0,"black",Monoclinic,,0
+1495,Ferrilotharmeyerite,"As,Ca,Fe,Zn,O,H",3,3,4.25,4.25,"Brownish-yellow, yellow",Monoclinic,1986,0
+1496,Ferrimolybdite,"Fe,Mo,O,H",1,2,2.99,2.99,"Yellow, canary yellow, or sulfur yellow, greenish yellow; colourless to canary-yellow in transmitted light",Orthorhombic,1914,0
+1497,Ferrinatrite,"Fe,Na,O,S,H",2.5,2.5,2.55,2.61,"Colourless, grayish white, pale green, bluish green, amethystine; colourless in transmitted light.",Trigonal,1889,0
+1498,Ferripyrophyllite,"Fe,Si,O,H",1.5,2,2.97,3.01,"brownish yellow",Monoclinic,1978,0
+1500,Ferristrunzite,"Fe,O,P,H",4,4,2.38,2.50,"Pale yellow to creamy white, tan to very light brown",Triclinic,1986,0
+1501,Ferrisurite,"Ca,Fe,Pb,Si,O,C,H",2,2.5,4.0,4.0,"Forest-green to light yellow-green",Monoclinic,1989,0
+1502,Ferrisymplesite,"As,Fe,O,H",2.5,2.5,2.885,2.885,"Dark amber-brown, yellow-brown, yellow",Monoclinic,1924,0
+1503,Ferri-tschermakite,"Al,Ca,Fe,Mg,Si,O,H",5,6,0,0,,Monoclinic,,0
+1505,Ferro-actinolite,"Ca,Fe,Si,O,H",5,6,3.24,3.48,"Black-green, dark green",Monoclinic,1946,0
+1506,Ferro-akermanite,"Ca,Si,Fe,O",,,0,0,,,,0
+1507,Ferroalluaudite,"Ca,Fe,Mn,Na,O,P",5,5.5,3.4,3.5,"Straw-yellow to brownish yellow, green, greenish black; yellow to yellow-green in transmitted light.",Monoclinic,,0
+1509,Iron-Platinum alloy,"Fe,Pt",,,0,0,"Grey",Isometric,,0
+1510,Ferro-barroisite,"Al,Ca,Fe,Na,Si,O,H",5,6,0,0,"Bluish-green to green.",Monoclinic,1978,0
+1511,Ferrobustamite,"Ca,Fe,Si,O",6,6,3.09,3.09,"Colorless, pink to brown.",Triclinic,1973,0
+1512,Ferrocarpholite,"Al,Fe,Si,O,H",5.5,5.5,3.04,3.04,"Dark green, bright green, grayish green",Orthorhombic,1929,0
+1514,Columbite-(Fe),"Fe,Nb,O",6,6,5.2,6.65,"Black to brownish black",Orthorhombic,1928,0
+1515,Ferro-gedrite,"Al,Fe,Si,O,H",5.5,6,0,0,"Pale greenish-grey to brown",Orthorhombic,1939,0
+1516,Ferro-glaucophane,"Al,Fe,Na,Si,O,H",5,6,0,0,"Grey to lavender-blue.",Monoclinic,1957,0
+1517,Ferrohexahydrite,"Fe,O,S,H",2,2,0,0,"Bluish green, colourless, white, light brownish",Monoclinic,1962,0
+1519,Ferro-hornblende,"Al,Ca,Fe,Si,O,H",5,6,3.12,3.30,"Dark green to black, greenish-brown, more rarely lighter green",Monoclinic,1978,0
+1521,Ferro-kaersutite,"Al,Ca,Fe,Na,Si,Ti,O",5,6,0,0,"Dark brown to black",Monoclinic,1978,0
+1522,Ferrokësterite,"Cu,Fe,Sn,S",4,4,0,0,"Grey",Tetragonal,,0
+1523,Ferronickelplatinum,"Fe,Ni,Pt",5,5,0,0,"Silvery White",Tetragonal,1983,0
+1524,Ferro-pargasite,"Al,Ca,Fe,Na,Si,O,H",5,6,0,0,"Greenish-brown to dark green, black.",Monoclinic,1961,0
+1525,Pyrosmalite-(Fe),"Cl,Fe,Si,O,H",4.5,4.5,0,0,,Trigonal,1808,0
+1526,Ferro-richterite,"Ca,Fe,Na,Si,O,H",5,6,0,0,"Brown to brownish-red, rose-red, yellow, grey-brown, also pale to dark green.",Monoclinic,1978,0
+1527,Ferroselite,"Fe,Se",6,6.5,7.20,7.20,"Steel gray to tin white with rose tint, brass yellow",Orthorhombic,1955,0
+1528,Ferrosilite,"Fe,Si,O",5,6,3.60,4.00,"Dark brown to black. ",Orthorhombic,1935,0
+1529,Ferrostrunzite,"Fe,O,P,H",4,4,2.50,2.50,"Creamy yellow, pale yellow, tan to light brown",Triclinic,1983,0
+1530,Tantalite-(Fe),"Fe,Ta,O",6,6.5,6.65,7.95,"Iron-black",Orthorhombic,1836,0
+1531,Tapiolite-(Fe),"Fe,Ta,O",6,6.5,7.90,7.90,"Black",Tetragonal,1863,0
+1532,Ferro-tschermakite,"Al,Ca,Fe,Si,O,H",5,6,0,0,"Medium green to dark green to green-black to black, also brownish-green.",Monoclinic,1945,0
+1533,Ferrotychite,"Fe,Mg,Mn,Na,O,C,S",4,4,2.79,2.79,"Gold-brown by a surface film of alteration product. On fresh surfaces, it is colorless to light yellow.",Isometric,1981,0
+1534,Ferro-winchite,"Al,Ca,Fe,Na,Si,O,H",5.5,5.5,0,0,"Cobalt-blue to violet-blue.",Monoclinic,,0
+1535,Ferrowodginite,"Fe,Sn,Ta,O",5.5,5.5,0,0,"Dark brown to black",Monoclinic,1992,0
+1536,Ferrowyllieite,"Al,Ca,Fe,Mg,Mn,Na,O,P",4,4,3.601,3.601,"Greenish black, also dark bluish green, dark greenish gray, dark green, dark brown.",Monoclinic,1979,0
+1537,Ferruccite,"Na,B,F",3,3,2.496,2.496,"Colourless to white",Orthorhombic,1933,0
+1538,Fersmanite,"Ca,Na,Nb,Si,Ti,O,F",5,5.5,3.44,3.46,"Dark brown to golden yellow",Triclinic,1929,0
+1539,Fersmite,"Ca,Ce,Na,Nb,Ta,Ti,O,F,H",4,4.5,0,0,"Black, dark brown, lemon-yellow to yellow-brown",Orthorhombic,1946,0
+1540,Feruvite,"Al,Ca,Fe,Mg,Si,B,O,H",7,7,3.207,3.207,"Dark brownish-black.",Trigonal,1989,0
+1541,Fervanite,"Fe,O,H,V",,,3.28,3.28,"Golden brown, yellow-brown, pale green",Monoclinic,1931,0
+1542,Fetiasite,"As,Fe,Ti,O",5,5,4.6,4.6,"Brown to black",Monoclinic,1986,0
+1543,Fettelite,"Ag,As,Hg,S",3.5,3.5,0,0,"Dark violet to scarlet",Monoclinic,,0
+1544,Fibroferrite,"Fe,O,S,H",2,2.5,1.84,2.1,"Light yellow, golden yellow, nearly white, greenish grey, yellowish green, light green; colourless to faint yellow in transmitted light.",Trigonal,1833,0
+1545,Fichtelite,"C,H",,,0,0,"Colorless, white, pale yellow",Monoclinic,1841,0
+1547,Fiedlerite,"Cl,Pb,O,F,H",3.5,3.5,5.88,5.88,"Colourless, white; colourless in transmitted light.",Monoclinic,1887,0
+1548,Filipstadite,"Fe,Mn,Sb,O",6,6.5,0,0,"Black",Isometric,1988,0
+1549,Fillowite,"Ca,Mn,Na,O,P",4.5,4.5,3.43,3.43,"Greenish yellow to yellow green, yellowish brown, reddish brown; colourless; colourless to yellow in transmitted light.",Trigonal,1879,0
+1550,Fingerite,"Cu,O,V",,,0,0,"black",Triclinic,1983,0
+1551,Finnemanite,"As,Cl,Pb,O",2.5,2.5,7.265,7.265,"Gray to black; pale olive-green in transmitted light",Hexagonal,1923,0
+1552,Fischesserite,"Ag,Au,Se",2,2,0,0,"Black",Isometric,1971,0
+1554,Fizélyite,"Ag,Pb,Sb,S",2,2,5.56,5.56,"Lead grey to steel gray",Monoclinic,,0
+1555,Flagstaffite,"O,C,H",,,1.09,1.09,"Colourless",Orthorhombic,1920,0
+1556,Fleischerite,"Ge,Pb,O,S,H",2.5,3,0,0,"White, slightly pale rose red",Hexagonal,1957,0
+1557,Fletcherite,"Cu,Ni,S",5,5,0,0,"Steel gray",Isometric,1977,0
+1558,Flinkite,"As,Mn,O,H",4.5,4.5,3.87,3.87,"Green-brown, dark green; Brownish yellow-green in transmitted light.",Orthorhombic,1889,0
+1559,Fülöppite,"Pb,Sb,S",2.5,2.5,5.23,5.23,"Lead grey, tarnishing to steel blue or bronzy",Monoclinic,,0
+1560,Florencite-(Ce),"Al,Ce,O,P,H",5,6,3.45,3.54,"Pale yellow to butterscotch-yellow, red-orange, pink, pale brown, colorless to gray; colorless to pale yellow in thin section, may be zoned.",Trigonal,,0
+1561,Florencite-(La),"Al,La,O,P,H",5,6,3.52,3.52,"Colorless to pale yellow; white in aggregates.",Trigonal,,0
+1562,Florencite-(Nd),"Al,Nd,O,P,H",5,6,0,0,"Moderate brown",Trigonal,,0
+1563,Florensovite,"Cr,Cu,Sb,Zn,S",5,5,0,0,"Black",Isometric,1989,0
+1564,Fluckite,"As,Ca,Mn,O,H",3.5,4,0,0,"colorless, pale pink, pale rose red",Triclinic,1980,0
+1565,Fluellite,"Al,O,P,F,H",3,3,2.139,2.17,"Colourless, white, yellow",Orthorhombic,1824,0
+1566,Fluoborite,"Mg,B,O,F,H",3.5,3.5,2.98,2.98,"Colourless, violet or white; colourless in transmitted light",Hexagonal,1926,0
+1567,Fluocerite-(Ce),"Ce,F",4.5,5,5.93,6.14,"Light yellow; darkening to yellow- and red-brown; colourless to pale pink (transmitted light)",Trigonal,,0
+1568,Fluocerite-(La),"La,F",4,5,0,0,,Trigonal,,0
+1572,Fluorapatite,"Ca,O,P,F",5,5,3.1,3.25,"Colourless to white when pure, also green, blue, pink, yellow, brown, violet, purple.",Hexagonal,1823,0
+1573,Fluorapophyllite-(K),"Ca,Si,O,K,F,H",4.5,5,2.33,2.37,"Colourless, pale green, aquamarine, white, pink, yellow",Tetragonal,1976,0
+1574,Fluorbritholite-(Ce),"Ca,Ce,Si,O,F",5,5,4.66,4.66,"Pale yellow, tan, reddish-brown",Hexagonal,,0
+1575,Fluorellestadite,"Ca,Si,O,F,S",4.5,4.5,3.03,3.03,"Blue to pale bluish, light rose-red, yellow",Hexagonal,1982,0
+1576,Fluorite,"Ca,F",4,4,3.175,3.56,"Purple, lilac, golden-yellow, green, colourless, blue, pink, champagne, brown. ",Isometric,1529,0
+1578,Foggite,"Al,Ca,O,P,H",4,4,2.78,2.78,"Colorless to snow-white",Orthorhombic,1973,0
+1579,Foitite,"Al,Fe,Si,B,O,H",7,7,3.17,3.17,"Dark indigo with purple tints to bluish-black",Trigonal,1993,0
+1580,Fontanite,"Ca,O,C,H,U",3,3,4.10,4.10,"Bright yellow",Monoclinic,1991,0
+1581,Foordite,"Nb,Sn,O",6,6,6.73,6.73,"Dark brown, yellowish brown, olive brown",Monoclinic,1988,0
+1582,Formanite-(Y),"Ta,O,Y",5.5,6.5,0,0,"Pale green to colorless",Tetragonal,,0
+1583,Fornacite,"As,Cr,Cu,Pb,O,H",2,3,6.27,6.27,"Deep olive-green; golden yellow in transmitted light (small grains).",Monoclinic,1915,0
+1584,Forsterite,"Mg,Si,O",7,7,3.275,3.275,"Green, pale yellow or white.",Orthorhombic,1824,0
+1585,Foshagite,"Ca,Si,O,H",3,3,2.73,2.73,"White",Triclinic,1925,0
+1586,Foshallasite,"Ca,Si,O,H",,,0,0,,,1936,0
+1587,Fourmarierite,"Pb,O,H,U",3,4,6.046,6.046,"Red-orange to golden red, carmine red, reddish brown to brown;",Orthorhombic,1924,0
+1588,Fraipontite,"Al,Si,Zn,O,H",3.5,4,3.08,3.10,"Yellowish white to bluish",Monoclinic,1927,0
+1589,Francevillite,"Ba,O,H,U,V",3,3,4.55,4.55,"Lemon-yellow, yellow-orange, orange, greenish yellow, green, brown",Orthorhombic,1957,0
+1590,Franciscanite,"Mn,Si,O,H,V",4,4,4.1,4.1,"Brown red, red",Trigonal,1984,0
+1591,Francisite,"Bi,Cl,Cu,Se,O",3,4,0,0,"Bright green",Orthorhombic,1990,0
+1592,Franckeite,"Fe,Pb,Sb,Sn,S",2.5,3,5.90,5.90,"Grey-black, black; iridescent at times",Triclinic,1893,0
+1593,Francoanellite,"Al,O,P,K,H",1,2,2.26,2.26,"Yellowish white",Trigonal,1976,0
+1594,Françoisite-(Nd),"Ce,Nd,Sm,O,P,H,U",3,3,4.06,4.06,"Yellow",Monoclinic,,0
+1595,Franconite,"Na,Nb,O,H",4,4,2.72,2.72,"White, colorless, grayish blue.",Monoclinic,1984,0
+1596,Frankdicksonite,"Ba,F",3,3,4.89,4.89,"Colourless",Isometric,1974,0
+1597,Franklinfurnaceite,"Ca,Fe,Mn,Si,Zn,O,H",3,3,3.66,3.66,"Dark reddish brown to brownish black",Monoclinic,1987,0
+1598,Franklinite,"Fe,Zn,O",5.5,6,5.07,5.22,"Black",Isometric,1819,0
+1599,Franklinphilite,"Al,Mg,Mn,Na,Si,Zn,O,K,H",4,4,2.6,2.8,"Dark brown, black",Triclinic,1992,0
+1600,Fransoletite,"Be,Ca,O,P,H",3,3,2.56,2.56,"Colorless to slightly whitish",Monoclinic,1982,0
+1601,Franzinite,"Al,Ca,Na,Si,O,K,S,H",5,5,2.46,2.52,"Colourless, pearl white",Hexagonal,1976,0
+1602,Freboldite,"Co,Se",2.5,3,0,0,"Copper-red",Hexagonal,1957,0

@@ -41,11 +41,11 @@ def get_html_file():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/output_map_China.html', methods=["GET"])
+@app.route('/output_map_Brazil.html', methods=["GET"])
 def get_html1_file():
     try:
-        file_path = os.path.join(os.path.dirname(__file__), 'output_map_China.html')
-        return send_from_directory(os.path.dirname(__file__), 'output_map_China.html')
+        file_path = os.path.join(os.path.dirname(__file__), 'output_map_Brazil.html')
+        return send_from_directory(os.path.dirname(__file__), 'output_map_Brazil.html')
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 

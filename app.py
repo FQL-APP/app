@@ -21,22 +21,16 @@ def run_code():
     return jsonify({"output": result})
 
 # 路由：获取 geomaterials.json 数据
-# 预加载 geomaterials.json 数据，程序启动时只加载一次
-geomaterials_data = None
-try:
-    file_path = os.path.join(os.path.dirname(__file__), 'geomaterials.json')
-    with open(file_path, 'r', encoding='utf-8') as f:
-        geomaterials_data = json.load(f)
-except Exception as e:
-    print(f"启动时加载 geomaterials.json 失败：{e}")
-    geomaterials_data = {}
-
-# 路由：获取 geomaterials.json 数据（从内存返回）
 @app.route('/geomaterials', methods=["GET"])
 def get_geomaterials():
-    if geomaterials_data is None:
-        return jsonify({'error': '数据未加载'}), 500
-    return jsonify(geomaterials_data)
+    try:
+        # 确保读取当前目录下的 geomaterials.json
+        file_path = os.path.join(os.path.dirname(__file__), 'geomaterials.json')
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 # 路由：返回 minerals_network.html 文件
 @app.route('/minerals_network.html', methods=["GET"])
